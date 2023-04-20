@@ -1,4 +1,4 @@
-Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
+rank,city,country,cityASCII,population,countryCode,latitude,longitude
 1,Shanghai,China,Shanghai,22315474,CN,31.22222,121.45806
 2,Beijing,China,Beijing,18960744,CN,39.9075,116.39723
 3,Shenzhen,China,Shenzhen,17494398,CN,22.54554,114.0683
@@ -7,7 +7,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 6,Istanbul,Turkey,Istanbul,14804116,TR,41.01384,28.94966
 7,Chengdu,China,Chengdu,13568357,CN,30.66667,104.06667
 8,Mumbai,India,Mumbai,12691836,IN,19.07283,72.88261
-9,São Paulo,Brazil,Sao Paulo,12400232,BR,-23.5475,-46.63611
+9,SÃ£o Paulo,Brazil,Sao Paulo,12400232,BR,-23.5475,-46.63611
 10,Mexico City,Mexico,Mexico City,12294193,MX,19.42847,-99.12766
 11,Karachi,Pakistan,Karachi,11624219,PK,24.8608,67.0104
 12,Tianjin,China,Tianjin,11090314,CN,39.14222,117.17667
@@ -18,7 +18,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 17,Seoul,"Korea, Republic of",Seoul,10349312,KR,37.566,126.9784
 18,Dongguan,China,Dongguan,9644871,CN,23.01797,113.74866
 19,Cairo,Egypt,Cairo,9606916,EG,30.06263,31.24967
-20,Xi’an,China,Xi'an,9600000,CN,34.25833,108.92861
+20,Xiâ€™an,China,Xi'an,9600000,CN,34.25833,108.92861
 21,Nanjing,China,Nanjing,9314685,CN,32.06167,118.77778
 22,Hangzhou,China,Hangzhou,9236032,CN,30.29365,120.16142
 23,Foshan,China,Foshan,9042509,CN,23.02677,113.13148
@@ -32,7 +32,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 31,Taipei,"Taiwan, China",Taipei,7871900,TW,25.04776,121.53185
 32,Kinshasa,"Congo, Democratic Republic of the",Kinshasa,7785965,CD,-4.32758,15.31357
 33,Lima,Peru,Lima,7737002,PE,-12.04318,-77.02824
-34,Bogotá,Colombia,Bogota,7674366,CO,4.60971,-74.08175
+34,BogotÃ¡,Colombia,Bogota,7674366,CO,4.60971,-74.08175
 35,Hong Kong,"Hong Kong, China",Hong Kong,7482500,HK,22.27832,114.17469
 36,Chongqing,China,Chongqing,7457599,CN,29.56026,106.55771
 37,Baghdad,Iraq,Baghdad,7216000,IQ,33.34058,44.40088
@@ -43,7 +43,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 42,Rio de Janeiro,Brazil,Rio de Janeiro,6747815,BR,-22.90642,-43.18223
 43,Suzhou,China,Suzhou,6715559,CN,31.30408,120.59538
 44,Ahmedabad,India,Ahmedabad,6357693,IN,23.02579,72.58727
-45,Abidjan,Côte d'Ivoire,Abidjan,6321017,CI,5.35444,-4.00167
+45,Abidjan,CÃ´te d'Ivoire,Abidjan,6321017,CI,5.35444,-4.00167
 46,Lahore,Pakistan,Lahore,6310888,PK,31.558,74.35071
 47,Singapore,Singapore,Singapore,5638700,SG,1.28967,103.85007
 48,Johannesburg,South Africa,Johannesburg,5635127,ZA,-26.20227,28.04363
@@ -101,7 +101,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 100,Bursa,Turkey,Bursa,3101833,TR,40.19559,29.06013
 101,Changsha,China,Changsha,3093980,CN,28.19874,112.97087
 102,Guiyang,China,Guiyang,3037159,CN,26.58333,106.71667
-103,Ürümqi,China,UEruemqi,3029372,CN,43.80096,87.60046
+103,ÃœrÃ¼mqi,China,UEruemqi,3029372,CN,43.80096,87.60046
 104,Caracas,"Venezuela, Bolivarian Rep. of",Caracas,3000000,VE,10.48801,-66.87919
 105,Lanzhou,China,Lanzhou,3000000,CN,36.05701,103.83987
 106,Incheon,"Korea, Republic of",Incheon,2954955,KR,37.45646,126.70515
@@ -155,7 +155,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 154,Yantai,China,Yantai,2227733,CN,37.47649,121.44081
 155,Maracaibo,"Venezuela, Bolivarian Rep. of",Maracaibo,2225000,VE,10.66663,-71.61245
 156,Manaus,Brazil,Manaus,2219580,BR,-3.10194,-60.025
-157,Brasília,Brazil,Brasilia,2207718,BR,-15.77972,-47.92972
+157,BrasÃ­lia,Brazil,Brasilia,2207718,BR,-15.77972,-47.92972
 158,Zhuhai,China,Zhuhai,2207090,CN,22.27694,113.56778
 159,Santo Domingo,Dominican Republic,Santo Domingo,2201941,DO,18.47186,-69.89232
 160,Perth,Australia,Perth,2192229,AU,-31.95224,115.8614
@@ -172,7 +172,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 171,Al Ba?rah al Qad?mah,Iraq,Al Basrah al Qadimah,2015483,IQ,30.50316,47.81507
 172,La Paz,Bolivia,La Paz,2004652,BO,-16.5,-68.15
 173,Lianyungang,China,Lianyungang,2001009,CN,34.59845,119.21556
-174,Medellín,Colombia,Medellin,1999979,CO,6.25184,-75.56359
+174,MedellÃ­n,Colombia,Medellin,1999979,CO,6.25184,-75.56359
 175,Tashkent,Uzbekistan,Tashkent,1978028,UZ,41.26465,69.21627
 176,Algiers,Algeria,Algiers,1977663,DZ,36.73225,3.08746
 177,Ganzhou,China,Ganzhou,1977253,CN,25.84664,114.9326
@@ -208,7 +208,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 207,Davao,Philippines,Davao,1776949,PH,7.07306,125.61278
 208,Fuyang,China,Fuyang,1768947,CN,32.9,115.81667
 209,Conakry,Guinea,Conakry,1767200,GN,9.53795,-13.67729
-210,Montréal,Canada,Montreal,1762949,CA,45.50884,-73.58781
+210,MontrÃ©al,Canada,Montreal,1762949,CA,45.50884,-73.58781
 211,Bayan Nur,China,Bayan Nur,1760000,CN,40.74143,107.38599
 212,Maracay,"Venezuela, Bolivarian Rep. of",Maracay,1754256,VE,10.23535,-67.59113
 213,Chaozhou,China,Chaozhou,1750945,CN,23.65396,116.62262
@@ -216,8 +216,8 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 215,Minsk,Belarus,Minsk,1742124,BY,53.9,27.56667
 216,Budapest,Hungary,Budapest,1741041,HU,47.49835,19.04045
 217,Qingyuan,China,Qingyuan,1738424,CN,23.7,113.03333
-218,Tai’an,China,Tai'an,1735425,CN,36.18528,117.12
-219,León de los Aldama,Mexico,Leon de los Aldama,1721199,MX,21.12908,-101.67374
+218,Taiâ€™an,China,Tai'an,1735425,CN,36.18528,117.12
+219,LeÃ³n de los Aldama,Mexico,Leon de los Aldama,1721199,MX,21.12908,-101.67374
 220,Warsaw,Poland,Warsaw,1702139,PL,52.22977,21.01178
 221,Soweto,South Africa,Soweto,1695047,ZA,-26.26781,27.85849
 222,Puebla,Mexico,Puebla,1692181,MX,19.03793,-98.20346
@@ -233,7 +233,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 232,Recife,Brazil,Recife,1653461,BR,-8.05389,-34.88111
 233,Suzhou,China,Suzhou,1647642,CN,33.63611,116.97889
 234,Ecatepec de Morelos,Mexico,Ecatepec de Morelos,1645352,MX,19.60492,-99.06064
-235,Lu’an,China,Lu'an,1644344,CN,31.73561,116.51688
+235,Luâ€™an,China,Lu'an,1644344,CN,31.73561,116.51688
 236,Barcelona,Spain,Barcelona,1620343,ES,41.38879,2.15899
 237,Valencia,"Venezuela, Bolivarian Rep. of",Valencia,1619470,VE,10.16202,-68.00765
 238,Pretoria,South Africa,Pretoria,1619438,ZA,-25.74486,28.18783
@@ -249,7 +249,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 248,Patna,India,Patna,1599920,IN,25.59408,85.13563
 249,Bhop?l,India,Bhopal,1599914,IN,23.25469,77.40289
 250,Wuhu,China,Wuhu,1598165,CN,31.33728,118.37351
-251,Santiago de Querétaro,Mexico,Santiago de Queretaro,1594212,MX,20.58806,-100.38806
+251,Santiago de QuerÃ©taro,Mexico,Santiago de Queretaro,1594212,MX,20.58806,-100.38806
 252,Dazhou,China,Dazhou,1589435,CN,31.2106,107.46308
 253,Yangzhou,China,Yangzhou,1584237,CN,32.39722,119.43583
 254,Kaduna,Nigeria,Kaduna,1582102,NG,10.52641,7.43879
@@ -266,22 +266,22 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 265,Harare,Zimbabwe,Harare,1542813,ZW,-17.82772,31.05337
 266,Putian,China,Putian,1539389,CN,25.43944,119.01028
 267,Shangqiu,China,Shangqiu,1536392,CN,34.45,115.65
-268,Goiânia,Brazil,Goiania,1536097,BR,-16.67861,-49.25389
+268,GoiÃ¢nia,Brazil,Goiania,1536097,BR,-16.67861,-49.25389
 269,Kawasaki,Japan,Kawasaki,1531646,JP,35.52056,139.71722
 270,Kobe,Japan,Kobe,1522188,JP,34.6913,135.183
 271,Kaohsiung,"Taiwan, China",Kaohsiung,1519711,TW,22.61626,120.31333
 272,Stockholm,Sweden,Stockholm,1515017,SE,59.32938,18.06871
-273,Ciudad Juárez,Mexico,Ciudad Juarez,1501551,MX,31.72024,-106.46084
+273,Ciudad JuÃ¡rez,Mexico,Ciudad Juarez,1501551,MX,31.72024,-106.46084
 274,Khulna,Bangladesh,Khulna,1500689,BD,22.80979,89.56439
 275,Caloocan City,Philippines,Caloocan City,1500000,PH,14.64953,120.96788
-276,Belém,Brazil,Belem,1499641,BR,-1.45583,-48.50444
+276,BelÃ©m,Brazil,Belem,1499641,BR,-1.45583,-48.50444
 277,Yekaterinburg,Russian Federation,Yekaterinburg,1495066,RU,56.8519,60.6122
 278,Gwangju,"Korea, Republic of",Gwangju,1490092,KR,35.15472,126.91556
 279,Porto Alegre,Brazil,Porto Alegre,1488252,BR,-30.03283,-51.23019
 280,Yinchuan,China,Yinchuan,1487579,CN,38.46806,106.27306
 281,Manhattan,United States,Manhattan,1487536,US,40.78343,-73.96625
 282,Taizhou,China,Taizhou,1485502,CN,28.66266,121.43312
-283,Asunción,Paraguay,Asuncion,1482200,PY,-25.28646,-57.647
+283,AsunciÃ³n,Paraguay,Asuncion,1482200,PY,-25.28646,-57.647
 284,Yiwu,China,Yiwu,1481384,CN,29.31506,120.07676
 285,Zapopan,Mexico,Zapopan,1476491,MX,20.72356,-103.38479
 286,Daejeon,"Korea, Republic of",Daejeon,1469543,KR,36.34913,127.38493
@@ -333,19 +333,19 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 332,Yichang,China,Yichang,1350150,CN,30.71444,111.28472
 333,Heze,China,Heze,1346717,CN,35.23929,115.47358
 334,Antalya,Turkey,Antalya,1344000,TR,36.90812,30.69556
-335,Abobo,Côte d'Ivoire,Abobo,1340083,CI,5.41613,-4.0159
+335,Abobo,CÃ´te d'Ivoire,Abobo,1340083,CI,5.41613,-4.0159
 336,Jamshedpur,India,Jamshedpur,1339438,IN,22.80278,86.18545
 337,Douala,Cameroon,Douala,1338082,CM,4.04827,9.70428
 338,Basrah,Iraq,Basrah,1326564,IQ,30.50852,47.7804
 339,Saitama,Japan,Saitama,1324854,JP,35.90807,139.65657
 340,Gorakhpur,India,Gorakhpur,1324570,IN,29.44768,75.67206
 341,Liupanshui,China,Liupanshui,1320825,CN,26.59444,104.83333
-342,Córdoba,Argentina,Cordoba,1317298,AR,-31.4135,-64.18105
+342,CÃ³rdoba,Argentina,Cordoba,1317298,AR,-31.4135,-64.18105
 343,Maoming,China,Maoming,1307802,CN,21.66625,110.91364
 344,Dallas,United States,Dallas,1300092,US,32.78306,-96.80667
 345,Callao,Peru,Callao,1300000,PE,-12.05659,-77.11814
 346,Medina,Saudi Arabia,Medina,1300000,SA,24.46861,39.61417
-347,Yaoundé,Cameroon,Yaounde,1299369,CM,3.86667,11.51667
+347,YaoundÃ©,Cameroon,Yaounde,1299369,CM,3.86667,11.51667
 348,Bamako,Mali,Bamako,1297281,ML,12.65,-8
 349,Qinzhou,China,Qinzhou,1296300,CN,21.98247,108.65061
 350,Luohe,China,Luohe,1294974,CN,33.56394,114.04272
@@ -370,7 +370,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 369,Jepara,Indonesia,Jepara,1257912,ID,-6.5924,110.671
 370,Xuzhou,China,Xuzhou,1253991,CN,34.20442,117.28386
 371,Dammam,Saudi Arabia,Dammam,1252523,SA,26.43442,50.10326
-372,Ra’s Bayr?t,Lebanon,Ra's Bayrut,1251739,LB,33.9,35.48333
+372,Raâ€™s Bayr?t,Lebanon,Ra's Bayrut,1251739,LB,33.9,35.48333
 373,Neijiang,China,Neijiang,1251095,CN,29.58354,105.06216
 374,Shiraz,"Iran, Islamic Rep. of",Shiraz,1249942,IR,29.61031,52.53113
 375,Yiyang,China,Yiyang,1249807,CN,28.58917,112.32833
@@ -396,7 +396,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 395,Barranquilla,Colombia,Barranquilla,1206319,CO,10.96854,-74.78132
 396,Kayseri,Turkey,Kayseri,1204641,TR,38.73222,35.48528
 397,Chelyabinsk,Russian Federation,Chelyabinsk,1202371,RU,55.15402,61.42915
-398,Mérida,Mexico,Merida,1201000,MX,20.97537,-89.61696
+398,MÃ©rida,Mexico,Merida,1201000,MX,20.97537,-89.61696
 399,Bulawayo,Zimbabwe,Bulawayo,1200337,ZW,-20.15,28.58333
 400,Shymkent,Kazakhstan,Shymkent,1200000,KZ,42.3,69.6
 401,Omdurman,"Sudan, The Republic of",Omdurman,1200000,SD,15.64453,32.47773
@@ -460,7 +460,7 @@ Rank,Name,Country name EN,ASCII Name,Population,Country Code,Latitude,Longitude
 459,Mexicali,Mexico,Mexicali,1032686,MX,32.62781,-115.45446
 460,Matola,Mozambique,Matola,1032197,MZ,-25.96222,32.45889
 461,Seongnam-si,"Korea, Republic of",Seongnam-si,1031935,KR,37.43861,127.13778
-462,Maceió,Brazil,Maceio,1031597,BR,-9.66583,-35.73528
+462,MaceiÃ³,Brazil,Maceio,1031597,BR,-9.66583,-35.73528
 463,Campinas,Brazil,Campinas,1031554,BR,-22.90556,-47.06083
 464,Sanya,China,Sanya,1031396,CN,18.24306,109.505
 465,Rangpur,Bangladesh,Rangpur,1031388,BD,25.74664,89.25166
