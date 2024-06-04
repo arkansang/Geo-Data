@@ -183,7 +183,7 @@ Accra,Ghana,Accra,GH,5.55602,-0.1969,2388000,1
 Curitiba,Brazil,Curitiba,BR,-25.42778,-49.27306,1963726,1
 Ordos City,China,Ordos,CN,39.6086,109.78157,2153638,1
 Sanaa,Yemen,Sanaa,YE,15.35472,44.20667,2957000,1
-Tijuana,Mexico,Tijuana,MX,32.5027,-117.00371,1964788,1
+Tijuana,Mexico,Tijuana,MX,32.5027,-117.00371,1964788,1.5
 Beirut,Lebanon,Beirut,LB,33.89332,35.50157,2421354,1
 Tangerang,Indonesia,Tangerang,ID,-6.17806,106.63,2237006,1
 Jieyang,China,Jieyang,CN,23.5418,116.36581,6089400,1
@@ -240,7 +240,7 @@ Pretoria,South Africa,Pretoria,ZA,-25.74486,28.18783,741651,1
 Yancheng,China,Yancheng,CN,33.3575,120.1573,6709629,1
 Novosibirsk,Russian Federation,Novosibirsk,RU,55.0415,82.9346,1625631,1
 Erbil,Iraq,Erbil,IQ,36.18333,44.01193,846000,1
-"Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,2
+"Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,3.5
 "Taizhou, Jiangsu",China,Taizhou,CN,32.49069,119.90812,4512762,1
 Daqing,China,Daqing,CN,46.58333,125,2781562,1
 Fukuoka,Japan,Fukuoka,JP,33.6,130.41667,1603043,1
@@ -313,7 +313,7 @@ Bozhou,China,Bozhou,CN,33.87722,115.77028,4996844,1
 Qujing,China,Qujing,CN,25.48333,103.78333,5765775,1
 Zhanjiang,China,Zhanjiang,CN,21.23391,110.38749,6981236,1
 Fushun,China,Fushun,CN,41.88669,123.94363,1861372,1
-San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,2
+San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,12.1
 Antananarivo,Madagascar,Antananarivo,MG,-18.91368,47.53613,1275207,1
 Rajkot,India,Rajkot,IN,22.29161,70.79322,2043000,1
 Luoyang,China,Luoyang,CN,34.68361,112.45361,7056699,1
@@ -457,7 +457,7 @@ Xinxiang,China,Xinxiang,CN,35.19033,113.80151,5708191,1
 Taichung,"Taiwan, China",Taichung,TW,24.1469,120.6839,3033885,1
 Theni Allinagaram,India,Teni,IN,10.01115,77.47772,85424,1
 Xianyang,China,Xianyang,CN,34.33778,108.70261,3959842,1
-Mexicali,Mexico,Mexicali,MX,32.62781,-115.45446,1034224,1
+Mexicali,Mexico,Mexicali,MX,32.62781,-115.45446,1034224,12.1
 Matola,Mozambique,Matola,MZ,-25.96222,32.45889,1032197,1
 Seongnam,"Korea, Republic of",Seongnam-si,KR,37.43861,127.13778,918771,1
 Maceió,Brazil,Maceio,BR,-9.66583,-35.73528,957916,1
