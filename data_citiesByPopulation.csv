@@ -40,7 +40,7 @@ Qingdao,China,Qingdao,CN,36.06488,120.38042,10071722,1
 Tehran,"Iran, Islamic Rep. of",Tehran,IR,35.69439,51.42151,8693706,1
 Shenyang,China,Shenyang,CN,41.79222,123.43278,9070093,1
 Hyderabad,India,Hyderabad,IN,17.38405,78.45636,9305000,1
-Rio de Janeiro,Brazil,Rio de Janeiro,BR,-22.90642,-43.18223,6775561,1
+Rio de Janeiro,Brazil,Rio de Janeiro,BR,-22.90642,-43.18223,6775561,2.3
 Suzhou,China,Suzhou,CN,31.30408,120.59538,12748262,1
 Ahmedabad,India,Ahmedabad,IN,23.02579,72.58727,7645000,1
 Abidjan,CÃ´te d'Ivoire,Abidjan,CI,5.35444,-4.00167,5616633,1
@@ -281,7 +281,7 @@ Porto Alegre,Brazil,Porto Alegre,BR,-30.03283,-51.23019,1492530,1
 Yinchuan,China,Yinchuan,CN,38.46806,106.27306,2859074,1
 Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,42.2
 "Taizhou, Jiangsu",China,Taizhou,CN,28.66266,121.43312,4512762,1
-Asunción,Paraguay,Asuncion,PY,-25.28646,-57.647,477346,1
+Asunción,Paraguay,Asuncion,PY,-25.28646,-57.647,477346,1.7
 Yiwu,China,Yiwu,CN,29.31506,120.07676,1234015,1
 Zapopan,Mexico,Zapopan,MX,20.72356,-103.38479,1476491,55.7
 Daejeon,"Korea, Republic of",Daejeon,KR,36.34913,127.38493,1443106,1
@@ -461,7 +461,7 @@ Mexicali,Mexico,Mexicali,MX,32.62781,-115.45446,1034224,12.1
 Matola,Mozambique,Matola,MZ,-25.96222,32.45889,1032197,1
 Seongnam,"Korea, Republic of",Seongnam-si,KR,37.43861,127.13778,918771,1
 Maceió,Brazil,Maceio,BR,-9.66583,-35.73528,957916,1.1
-Campinas,Brazil,Campinas,BR,-22.90556,-47.06083,1213792,1
+Campinas,Brazil,Campinas,BR,-22.90556,-47.06083,1213792,5.3
 Sanya,China,Sanya,CN,18.24306,109.505,1031396,1
 "Rangpur, Bangladesh",Bangladesh,Rangpur,BD,25.74664,89.25166,294265,1
 Kirkuk,Iraq,Kirkuk,IQ,35.46806,44.39222,975000,1
