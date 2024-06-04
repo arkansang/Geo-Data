@@ -119,7 +119,7 @@ Osaka,Japan,Osaka,JP,34.69374,135.50218,2751862,1
 Nairobi,Kenya,Nairobi,KE,-1.28333,36.81667,5545000,1
 Linyi,China,Linyi,CN,35.06306,118.34278,11018365,1
 Baoding,China,Baoding,CN,38.85111,115.49028,11544036,1
-Brooklyn,United States,Brooklyn,US,40.6501,-73.94958,2641052,2
+Brooklyn,United States,Brooklyn,US,40.6501,-73.94958,2641052,42.2
 Guayaquil,Ecuador,Guayaquil,EC,-2.19616,-79.88621,2723665,1
 Belo Horizonte,Brazil,Belo Horizonte,BR,-19.92083,-43.93778,2315560,1
 "Salvador, Bahia",Brazil,Salvador,BR,-12.97563,-38.49096,2900319,1
@@ -150,7 +150,7 @@ Houston,United States,Houston,US,29.76328,-95.36327,2304580,1
 Kowloon,"Hong Kong, China",Kowloon,HK,22.31667,114.18333,2108419,1
 Shaoxing,China,Shaoxing,CN,30.00237,120.57864,5270977,1
 Nantong,China,Nantong,CN,32.03028,120.87472,7726635,1
-Queens,United States,Queens,US,40.68149,-73.83652,2405464,2
+Queens,United States,Queens,US,40.68149,-73.83652,2405464,64
 Nagpur,India,Nagpur,IN,21.14631,79.08491,2405665,1
 Yantai,China,Yantai,CN,37.47649,121.44081,7102116,1
 Maracaibo,"Venezuela, Bolivarian Rep. of",Maracaibo,VE,10.66663,-71.61245,1551539,1
@@ -254,7 +254,7 @@ Dazhou,China,Dazhou,CN,31.2106,107.46308,5385422,1
 Yangzhou,China,Yangzhou,CN,32.39722,119.43583,4559797,1
 Kaduna,Nigeria,Kaduna,NG,10.52641,7.43879,760084,1
 Mecca,Saudi Arabia,Mecca,SA,21.42664,39.82563,2427924,1
-Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,2
+Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,2.3
 Phnom Penh,Cambodia,Phnom Penh,KH,11.56245,104.91601,2129371,1
 Guilin,China,Guilin,CN,25.28022,110.29639,4931137,1
 Damascus,Syrian Arab Republic,Damascus,SY,33.5102,36.29128,2584771,1
@@ -279,7 +279,7 @@ Yekaterinburg,Russian Federation,Yekaterinburg,RU,56.8519,60.6122,1468833,1
 Gwangju,"Korea, Republic of",Gwangju,KR,35.15472,126.91556,1422999,1
 Porto Alegre,Brazil,Porto Alegre,BR,-30.03283,-51.23019,1492530,1
 Yinchuan,China,Yinchuan,CN,38.46806,106.27306,2859074,1
-Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,2
+Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,42.2
 "Taizhou, Jiangsu",China,Taizhou,CN,28.66266,121.43312,4512762,1
 Asunción,Paraguay,Asuncion,PY,-25.28646,-57.647,477346,1
 Yiwu,China,Yiwu,CN,29.31506,120.07676,1234015,1
@@ -321,7 +321,7 @@ Konya,Turkey,Konya,TR,37.87135,32.48464,2232374,1
 Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1
 "Hyderabad, Sindh",Pakistan,Hyderabad,PK,25.39242,68.37366,1732693,1
 Guadalajara,Mexico,Guadalajara,MX,20.66682,-103.39182,1460148,1
-The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,2
+The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,21.1
 Gujranwala,Pakistan,Gujranwala,PK,32.15567,74.18705,2027001,1
 Guankou,China,Guankou,CN,28.15861,113.62709,1380000,1
 Lubumbashi,"Congo, Democratic Republic of the",Lubumbashi,CD,-11.66089,27.47938,1786397,1
