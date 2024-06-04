@@ -157,7 +157,7 @@ Maracaibo,"Venezuela, Bolivarian Rep. of",Maracaibo,VE,10.66663,-71.61245,155153
 Manaus,Brazil,Manaus,BR,-3.10194,-60.025,2063547,1
 Brasília,Brazil,Brasilia,BR,-15.77972,-47.92972,3094325,1
 Zhuhai,China,Zhuhai,CN,22.27694,113.56778,2439585,1
-Santo Domingo,Dominican Republic,Santo Domingo,DO,18.47186,-69.89232,1128678,1
+Santo Domingo,Dominican Republic,Santo Domingo,DO,18.47186,-69.89232,1128678,12.1
 Perth,Australia,Perth,AU,-31.95224,115.8614,2043762,1
 Nagoya,Japan,Nagoya,JP,35.18147,136.90641,2326844,1
 Havana,Cuba,Havana,CU,23.13302,-82.38304,2492618,1
@@ -271,7 +271,7 @@ Goiânia,Brazil,Goiania,BR,-16.67861,-49.25389,1555626,1
 Kobe,Japan,Kobe,JP,34.6913,135.183,1521707,1
 Kaohsiung,"Taiwan, China",Kaohsiung,TW,22.61626,120.31333,2733964,1
 Stockholm,Sweden,Stockholm,SE,59.32938,18.06871,984748,1
-Ciudad Juárez,Mexico,Ciudad Juarez,MX,31.72024,-106.46084,1321004,1
+Ciudad Juárez,Mexico,Ciudad Juarez,MX,31.72024,-106.46084,1321004,1.7
 Khulna,Bangladesh,Khulna,BD,22.80979,89.56439,1400689,1
 Caloocan,Philippines,Caloocan City,PH,14.64953,120.96788,1661584,1
 Belém,Brazil,Belem,BR,-1.45583,-48.50444,1506420,1
@@ -302,7 +302,7 @@ Suqian,China,Suqian,CN,33.94917,118.29583,4986192,1
 Multan,Pakistan,Multan,PK,30.19679,71.47824,1871843,1
 Liuzhou,China,Liuzhou,CN,24.32405,109.40698,4157934,1
 Tirunelveli,India,Tirunelveli,IN,8.72742,77.6838,411298,1
-San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,2
+San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,6.1
 Kharkiv,Ukraine,Kharkiv,UA,49.98081,36.25272,1421125,1
 Zhangjiagang,China,Zhangjiagang,CN,31.865,120.53889,1447600,1
 Agra,India,Agra,IN,27.18333,78.01667,1585705,1
@@ -380,7 +380,7 @@ Jining,China,Jining,CN,35.405,116.58139,8357897,1
 Barquisimeto,"Venezuela, Bolivarian Rep. of",Barquisimeto,VE,10.0647,-69.35703,1059092,1
 Shubra El Kheima,Egypt,Shubra al Khaymah,EG,30.12511,31.25053,1025569,1
 Abuja,Nigeria,Abuja,NG,9.05785,7.49508,1568853,1
-Port-au-Prince,Haiti,Port-au-Prince,HT,18.54349,-72.33881,987310,1
+Port-au-Prince,Haiti,Port-au-Prince,HT,18.54349,-72.33881,987310,1.7
 Xinyang,China,Xinyang,CN,32.12278,114.06556,6234401,1
 Liaocheng,China,Liaocheng,CN,36.45064,116.00247,5952128,1
 Jinzhong,China,Jinzhong,CN,37.68403,112.75471,3249425,1
