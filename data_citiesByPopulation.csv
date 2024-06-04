@@ -198,7 +198,7 @@ Hamburg,Germany,Hamburg,DE,53.55073,9.99302,1892122,1
 Indore,India,Indore,IN,22.71792,75.8333,1994397,1
 Santa Cruz de la Sierra,Bolivia,Santa Cruz de la Sierra,BO,-17.78629,-63.18117,3151676,1
 Vadodara,India,Vadodara,IN,22.29941,73.20812,2065771,1
-Iztapalapa,Mexico,Iztapalapa,MX,19.35529,-99.06224,1835486,1
+Iztapalapa,Mexico,Iztapalapa,MX,19.35529,-99.06224,1835486,21.1
 "Nanyang, Henan",China,Nanyang,CN,32.99472,112.53278,9713112,1
 Gaziantep Province,Turkey,Gaziantep,TR,37.05944,37.3825,1870697,1
 Jiangmen,China,Jiangmen,CN,22.58333,113.08333,4630300,1
@@ -220,7 +220,7 @@ Tai'an,China,Tai'an,CN,36.18528,117.12,5472217,1
 "León, Guanajuato",Mexico,Leon de los Aldama,MX,21.12908,-101.67374,1579803,1
 Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1
 Soweto,South Africa,Soweto,ZA,-26.26781,27.85849,1271628,1
-Puebla,Mexico,Puebla,MX,19.03793,-98.20346,1434062,1
+Puebla,Mexico,Puebla,MX,19.03793,-98.20346,1434062,5.3
 Vienna,Austria,Vienna,AT,48.20849,16.37208,1973403,1
 Mosul,Iraq,Mosul,IQ,36.335,43.11889,1792000,1
 Kallakurichi,India,Kallakurichi,IN,11.73379,78.95925,73528,1
@@ -232,7 +232,7 @@ Rabat,Morocco,Rabat,MA,34.01325,-6.83255,572717,1
 Semarang,Indonesia,Semarang,ID,-6.99306,110.42083,1621384,1
 Recife,Brazil,Recife,BR,-8.05389,-34.88111,1488920,1
 Suzhou,China,Suzhou,CN,33.63611,116.97889,12748262,1
-Ecatepec de Morelos,Mexico,Ecatepec de Morelos,MX,19.60492,-99.06064,1929926,1
+Ecatepec de Morelos,Mexico,Ecatepec de Morelos,MX,19.60492,-99.06064,1929926,12.1
 Lu'an,China,Lu'an,CN,31.73561,116.51688,4393699,1
 Barcelona,Spain,Barcelona,ES,41.38879,2.15899,1660122,1
 Valencia,"Venezuela, Bolivarian Rep. of",Valencia,VE,10.16202,-68.00765,807693,1
@@ -407,7 +407,7 @@ Ghaziabad,India,Ghaziabad,IN,28.66535,77.43915,1199191,1
 Dhanbad,India,Dhanbad,IN,23.79759,86.42992,1162472,1
 Dombivli,India,Dombivli,IN,19.21667,73.08333,1193000,1
 Maputo,Mozambique,Maputo,MZ,-25.96553,32.58322,1133200,1
-Gustavo Adolfo Madero,Mexico,Gustavo Adolfo Madero,MX,19.49392,-99.11075,1185772,1
+Gustavo Adolfo Madero,Mexico,Gustavo Adolfo Madero,MX,19.49392,-99.11075,1185772,36.8
 Jiaxing,China,Jiaxing,CN,30.7522,120.75,5400868,1
 Omsk,Russian Federation,Omsk,RU,54.99244,73.36859,1172070,1
 Guarulhos,Brazil,Guarulhos,BR,-23.46278,-46.53333,1392121,1
@@ -434,7 +434,7 @@ Baku,Azerbaijan,Baku,AZ,40.37767,49.89201,2300500,1
 Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,1
 Huaibei,China,Huaibei,CN,33.97444,116.79167,2114276,1
 Meishan,China,Meishan,CN,30.04392,103.83696,2950545,1
-Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,1
+Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,55.7
 Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,1
 Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1
 Yerevan,Armenia,Yerevan,AM,40.18111,44.51361,1092800,1
