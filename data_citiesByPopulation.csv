@@ -218,7 +218,7 @@ Budapest,Hungary,Budapest,HU,47.49835,19.04045,1671004,3
 Qingyuan,China,Qingyuan,CN,23.7,113.03333,3969473,1
 Tai'an,China,Tai'an,CN,36.18528,117.12,5472217,1
 "León, Guanajuato",Mexico,Leon de los Aldama,MX,21.12908,-101.67374,1579803,4.6
-Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1
+Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1.5
 Soweto,South Africa,Soweto,ZA,-26.26781,27.85849,1271628,1
 Puebla,Mexico,Puebla,MX,19.03793,-98.20346,1434062,5.3
 Vienna,Austria,Vienna,AT,48.20849,16.37208,1973403,1
@@ -303,7 +303,7 @@ Multan,Pakistan,Multan,PK,30.19679,71.47824,1871843,1
 Liuzhou,China,Liuzhou,CN,24.32405,109.40698,4157934,1
 Tirunelveli,India,Tirunelveli,IN,8.72742,77.6838,411298,1
 San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,6.1
-Kharkiv,Ukraine,Kharkiv,UA,49.98081,36.25272,1421125,1
+Kharkiv,Ukraine,Kharkiv,UA,49.98081,36.25272,1421125,1.3
 Zhangjiagang,China,Zhangjiagang,CN,31.865,120.53889,1447600,1
 Agra,India,Agra,IN,27.18333,78.01667,1585705,1
 Tabriz,"Iran, Islamic Rep. of",Tabriz,IR,38.08,46.2919,1558693,1
@@ -358,7 +358,7 @@ Pimpri,India,Pimpri,IN,18.62292,73.80696,1729320,1
 Amman,Jordan,Amman,JO,31.95522,35.94503,4007526,1
 Sharjah,United Arab Emirates,Sharjah,AE,25.33737,55.41206,1247749,1
 Budta,Philippines,Budta,PH,7.20417,124.43972,1273715,1
-Belgrade,Serbia,Belgrade,RS,44.80401,20.46513,1378682,1
+Belgrade,Serbia,Belgrade,RS,44.80401,20.46513,1378682,2.6
 Montevideo,Uruguay,Montevideo,UY,-34.90328,-56.18816,1319108,9.2
 Lusaka,Zambia,Lusaka,ZM,-15.40669,28.28713,2204059,1
 Xuchang,China,Xuchang,CN,34.03189,113.86299,4379998,1
@@ -366,7 +366,7 @@ Kalyan,India,Kalyan,IN,19.2437,73.13554,1246381,1
 Zigong,China,Zigong,CN,29.34162,104.77689,2489256,1
 Thane,India,Thane,IN,19.19704,72.96355,1886941,1
 Munich,Germany,Munich,DE,48.13743,11.57549,1487708,2.6
-Nizhny Novgorod,Russian Federation,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,1
+Nizhny Novgorod,Russian Federation,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,2.3
 Jepara,Indonesia,Jepara,ID,-6.5924,110.671,1257912,1
 Xuzhou,China,Xuzhou,CN,34.20442,117.28386,9083790,1
 Dammam,Saudi Arabia,Dammam,SA,26.43442,50.10326,903000,1
@@ -412,12 +412,12 @@ Jiaxing,China,Jiaxing,CN,30.7522,120.75,5400868,1
 Omsk,Russian Federation,Omsk,RU,54.99244,73.36859,1172070,1
 Guarulhos,Brazil,Guarulhos,BR,-23.46278,-46.53333,1392121,32
 Bandar Lampung,Indonesia,Bandar Lampung,ID,-5.42917,105.26111,1166761,1
-Prague,Czech Republic,Prague,CZ,50.08804,14.42076,1357326,1
+Prague,Czech Republic,Prague,CZ,50.08804,14.42076,1357326,1.1
 Varanasi,India,Varanasi,IN,25.31668,83.01041,1198491,1
 Batam,Indonesia,Batam,ID,1.14937,104.02491,1196396,1
 Jiujiang,China,Jiujiang,CN,29.70475,116.00206,4600276,1
 Samara,Russian Federation,Samara,RU,53.20007,50.15,1156659,1
-Copenhagen,Denmark,Copenhagen,DK,55.67594,12.56553,644431,1
+Copenhagen,Denmark,Copenhagen,DK,55.67594,12.56553,644431,1.1
 Sofia,Bulgaria,Sofia,BG,42.69751,23.32415,1276956,1
 Tripoli,Libyan Arab Jamahiriya,Tripoli,LY,32.88743,13.18733,1150989,1
 Anyang,China,Anyang,CN,36.096,114.38278,5477614,1
@@ -439,7 +439,7 @@ Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,1
 Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1
 Yerevan,Armenia,Yerevan,AM,40.18111,44.51361,1092800,1
 Amritsar,India,Amritsar,IN,31.62234,74.87534,1132761,1
-Krasnoyarsk,Russian Federation,Krasnoyarsk,RU,56.01839,92.86717,1090811,1
+Krasnoyarsk,Russian Federation,Krasnoyarsk,RU,56.01839,92.86717,1090811,2.3
 Fuzhou,China,Fuzhou,CN,27.95999,116.33333,8291268,1
 Ouagadougou,Burkina Faso,Ouagadougou,BF,12.36566,-1.53388,2453496,1
 Guigang,China,Guigang,CN,23.11603,109.59472,4316262,1
@@ -479,7 +479,7 @@ Brussels,Belgium,Brussels,BE,50.85045,4.34878,1218255,3
 Aurangabad,India,Aurangabad,IN,19.87757,75.34226,1016441,1
 Huzhou,China,Huzhou,CN,30.8703,120.0933,3367579,1
 Odesa,Ukraine,Odesa,UA,46.48572,30.74383,1010537,1
-Volgograd,Russian Federation,Volgograd,RU,48.71939,44.50183,1004763,1
+Volgograd,Russian Federation,Volgograd,RU,48.71939,44.50183,1004763,1.5
 Edmonton,Canada,Edmonton,CA,53.55014,-113.46871,1010899,1
 "Wuwei, Gansu",China,Wuwei,CN,37.92672,102.63202,1815059,1
 Namangan,Uzbekistan,Namangan,UZ,40.9983,71.67257,626120,1
