@@ -194,7 +194,7 @@ Kakamega,Kenya,Kakamega,KE,0.28422,34.75229,91778,1
 Port Harcourt,Nigeria,Port Harcourt,NG,4.77742,7.0134,3325000,1
 Nanchong,China,Nanchong,CN,30.79508,106.08473,5607565,1
 Datong,China,Datong,CN,40.09361,113.29139,3105591,1
-Hamburg,Germany,Hamburg,DE,53.55073,9.99302,1892122,1
+Hamburg,Germany,Hamburg,DE,53.55073,9.99302,1892122,2.3
 Indore,India,Indore,IN,22.71792,75.8333,1994397,1
 Santa Cruz de la Sierra,Bolivia,Santa Cruz de la Sierra,BO,-17.78629,-63.18117,3151676,1
 Vadodara,India,Vadodara,IN,22.29941,73.20812,2065771,1
@@ -214,7 +214,7 @@ Maracay,"Venezuela, Bolivarian Rep. of",Maracay,VE,10.23535,-67.59113,1102088,12
 Chaozhou,China,Chaozhou,CN,23.65396,116.62262,2656600,1
 Rawalpindi,Pakistan,Rawalpindi,PK,33.59733,73.0479,2098231,1
 Minsk,Belarus,Minsk,BY,53.9,27.56667,1995471,1
-Budapest,Hungary,Budapest,HU,47.49835,19.04045,1671004,1
+Budapest,Hungary,Budapest,HU,47.49835,19.04045,1671004,3
 Qingyuan,China,Qingyuan,CN,23.7,113.03333,3969473,1
 Tai'an,China,Tai'an,CN,36.18528,117.12,5472217,1
 "León, Guanajuato",Mexico,Leon de los Aldama,MX,21.12908,-101.67374,1579803,4.6
@@ -228,13 +228,13 @@ Xining,China,Xining,CN,36.62554,101.75739,2467965,1
 Changshu,China,Changshu,CN,31.64615,120.74221,1677050,1
 Palembang,Indonesia,Palembang,ID,-2.91673,104.7458,1535952,1
 Huainan,China,Huainan,CN,32.62639,116.99694,3033528,1
-Rabat,Morocco,Rabat,MA,34.01325,-6.83255,572717,1
+Rabat,Morocco,Rabat,MA,34.01325,-6.83255,572717,8
 Semarang,Indonesia,Semarang,ID,-6.99306,110.42083,1621384,1
 Recife,Brazil,Recife,BR,-8.05389,-34.88111,1488920,1
 Suzhou,China,Suzhou,CN,33.63611,116.97889,12748262,1
 Ecatepec de Morelos,Mexico,Ecatepec de Morelos,MX,19.60492,-99.06064,1929926,12.1
 Lu'an,China,Lu'an,CN,31.73561,116.51688,4393699,1
-Barcelona,Spain,Barcelona,ES,41.38879,2.15899,1660122,1
+Barcelona,Spain,Barcelona,ES,41.38879,2.15899,1660122,2
 Valencia,"Venezuela, Bolivarian Rep. of",Valencia,VE,10.16202,-68.00765,807693,32
 Pretoria,South Africa,Pretoria,ZA,-25.74486,28.18783,741651,1
 Yancheng,China,Yancheng,CN,33.3575,120.1573,6709629,1
@@ -270,7 +270,7 @@ Goiânia,Brazil,Goiania,BR,-16.67861,-49.25389,1555626,1.7
 "Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,1
 Kobe,Japan,Kobe,JP,34.6913,135.183,1521707,1
 Kaohsiung,"Taiwan, China",Kaohsiung,TW,22.61626,120.31333,2733964,1
-Stockholm,Sweden,Stockholm,SE,59.32938,18.06871,984748,1
+Stockholm,Sweden,Stockholm,SE,59.32938,18.06871,984748,1.7
 Ciudad Juárez,Mexico,Ciudad Juarez,MX,31.72024,-106.46084,1321004,1.7
 Khulna,Bangladesh,Khulna,BD,22.80979,89.56439,1400689,1
 Caloocan,Philippines,Caloocan City,PH,14.64953,120.96788,1661584,1
@@ -365,7 +365,7 @@ Xuchang,China,Xuchang,CN,34.03189,113.86299,4379998,1
 Kalyan,India,Kalyan,IN,19.2437,73.13554,1246381,1
 Zigong,China,Zigong,CN,29.34162,104.77689,2489256,1
 Thane,India,Thane,IN,19.19704,72.96355,1886941,1
-Munich,Germany,Munich,DE,48.13743,11.57549,1487708,1
+Munich,Germany,Munich,DE,48.13743,11.57549,1487708,2.6
 Nizhny Novgorod,Russian Federation,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,1
 Jepara,Indonesia,Jepara,ID,-6.5924,110.671,1257912,1
 Xuzhou,China,Xuzhou,CN,34.20442,117.28386,9083790,1
@@ -421,7 +421,7 @@ Copenhagen,Denmark,Copenhagen,DK,55.67594,12.56553,644431,1
 Sofia,Bulgaria,Sofia,BG,42.69751,23.32415,1276956,1
 Tripoli,Libyan Arab Jamahiriya,Tripoli,LY,32.88743,13.18733,1150989,1
 Anyang,China,Anyang,CN,36.096,114.38278,5477614,1
-Birmingham,United Kingdom,Birmingham,GB,52.48142,-1.89983,1137100,1
+Birmingham,United Kingdom,Birmingham,GB,52.48142,-1.89983,1137100,2.3
 Bijie,China,Bijie,CN,27.30193,105.28627,6899636,1
 Monterrey,Mexico,Monterrey,MX,25.67507,-100.31847,1135512,1
 Kigali,Rwanda,Kigali,RW,-1.94995,30.05885,1156663,1
@@ -475,7 +475,7 @@ Dublin,Ireland,Dublin,IE,53.33306,-6.24889,592713,1
 Tiruchirappalli,India,Tiruchirappalli,IN,10.8155,78.69651,916857,1
 Yongzhou,China,Yongzhou,CN,26.42389,111.61306,5289824,1
 Calgary,Canada,Calgary,CA,51.05011,-114.08529,1306784,1
-Brussels,Belgium,Brussels,BE,50.85045,4.34878,1218255,1
+Brussels,Belgium,Brussels,BE,50.85045,4.34878,1218255,3
 Aurangabad,India,Aurangabad,IN,19.87757,75.34226,1016441,1
 Huzhou,China,Huzhou,CN,30.8703,120.0933,3367579,1
 Odesa,Ukraine,Odesa,UA,46.48572,30.74383,1010537,1
