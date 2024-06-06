@@ -60,7 +60,7 @@ Santiago,Chile,Santiago,CL,-33.45694,-70.64827,6257516,1
 Changchun,China,Changchun,CN,43.88,125.32278,9066906,18.4
 Cape Town,South Africa,Cape Town,ZA,-33.92584,18.42322,433688,1
 Jeddah,Saudi Arabia,Jeddah,SA,21.49012,39.18624,4697000,1
-Chennai,India,Chennai,IN,13.08784,80.27847,10265000,1
+Chennai,India,Chennai,IN,13.08784,80.27847,10265000,8
 Kolkata,India,Kolkata,IN,22.56263,88.36304,4496694,1
 Xiamen,China,Xiamen,CN,24.47979,118.08187,5163970,1
 Surat,India,Surat,IN,21.19594,72.83023,5935000,1
@@ -90,7 +90,7 @@ Ankara,Turkey,Ankara,TR,39.91987,32.85427,5747325,1.7
 Dubai,United Arab Emirates,Dubai,AE,25.07725,55.30927,3564931,1.3
 Shiyan,China,Shiyan,CN,32.6475,110.77806,3398000,1
 Berlin,Germany,Berlin,DE,52.52437,13.41053,3755251,1
-Tangshan,China,Tangshan,CN,39.63333,118.18333,7717983,1
+Tangshan,China,Tangshan,CN,39.63333,118.18333,7717983,8
 Changzhou,China,Changzhou,CN,31.77359,119.95401,5278121,1
 Madrid,Spain,Madrid,ES,40.4165,-3.70256,3332035,1
 Pyongyang,"Korea, Dem. People's Rep. of",Pyongyang,KP,39.03385,125.75432,2863000,1
@@ -209,7 +209,7 @@ Davao City,Philippines,Davao,PH,7.07306,125.61278,1776949,1
 Fuyang,China,Fuyang,CN,32.9,115.81667,8200264,1
 Conakry,Guinea,Conakry,GN,9.53795,-13.67729,1667864,1
 Montreal,Canada,Montreal,CA,45.50884,-73.58781,1800055,1
-Bayannur,China,Bayan Nur,CN,40.74143,107.38599,1669915,1
+Bayannur,China,Bayan Nur,CN,40.74143,107.38599,1669915,9.2
 Maracay,"Venezuela, Bolivarian Rep. of",Maracay,VE,10.23535,-67.59113,1102088,12.1
 Chaozhou,China,Chaozhou,CN,23.65396,116.62262,2656600,1
 Rawalpindi,Pakistan,Rawalpindi,PK,33.59733,73.0479,2098231,2
@@ -267,7 +267,7 @@ Harare,Zimbabwe,Harare,ZW,-17.82772,31.05337,2150000,1
 Putian,China,Putian,CN,25.43944,119.01028,3210714,1
 Shangqiu,China,Shangqiu,CN,34.45,115.65,7816831,1
 Goiânia,Brazil,Goiania,BR,-16.67861,-49.25389,1555626,1.7
-"Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,1
+"Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,32
 Kobe,Japan,Kobe,JP,34.6913,135.183,1521707,1
 Kaohsiung,"Taiwan, China",Kaohsiung,TW,22.61626,120.31333,2733964,1
 Stockholm,Sweden,Stockholm,SE,59.32938,18.06871,984748,1.7
@@ -322,7 +322,7 @@ Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1
 "Hyderabad, Sindh",Pakistan,Hyderabad,PK,25.39242,68.37366,1732693,1
 Guadalajara,Mexico,Guadalajara,MX,20.66682,-103.39182,1460148,1.5
 The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,21.1
-Gujranwala,Pakistan,Gujranwala,PK,32.15567,74.18705,2027001,1
+Gujranwala,Pakistan,Gujranwala,PK,32.15567,74.18705,2027001,6.1
 Guankou,China,Guankou,CN,28.15861,113.62709,1380000,1
 Lubumbashi,"Congo, Democratic Republic of the",Lubumbashi,CD,-11.66089,27.47938,1786397,1
 Milan,Italy,Milan,IT,45.46427,9.18951,1354196,1
@@ -332,7 +332,7 @@ Handan,China,Handan,CN,36.60999,114.48764,9413990,1
 Kampala,Uganda,Kampala,UG,0.31628,32.58219,1680600,1.7
 Yichang,China,Yichang,CN,30.71444,111.28472,4017607,1
 Heze,China,Heze,CN,35.23929,115.47358,8795939,1
-Antalya,Turkey,Antalya,TR,36.90812,30.69556,2426356,1
+Antalya,Turkey,Antalya,TR,36.90812,30.69556,2426356,1.5
 Abobo,CÃ´te d'Ivoire,Abobo,CI,5.41613,-4.0159,1340083,55.7
 Jamshedpur,India,Jamshedpur,IN,22.80278,86.18545,1558000,1
 Douala,Cameroon,Douala,CM,4.04827,9.70428,2768436,8
@@ -409,7 +409,7 @@ Dombivli,India,Dombivli,IN,19.21667,73.08333,1193000,1
 Maputo,Mozambique,Maputo,MZ,-25.96553,32.58322,1133200,7
 Gustavo Adolfo Madero,Mexico,Gustavo Adolfo Madero,MX,19.49392,-99.11075,1185772,42.2
 Jiaxing,China,Jiaxing,CN,30.7522,120.75,5400868,1
-Omsk,Russian Federation,Omsk,RU,54.99244,73.36859,1172070,1
+Omsk,Russian Federation,Omsk,RU,54.99244,73.36859,1172070,1.3
 Guarulhos,Brazil,Guarulhos,BR,-23.46278,-46.53333,1392121,32
 Bandar Lampung,Indonesia,Bandar Lampung,ID,-5.42917,105.26111,1166761,1
 Prague,Czech Republic,Prague,CZ,50.08804,14.42076,1357326,1.1
@@ -435,7 +435,7 @@ Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,1
 Huaibei,China,Huaibei,CN,33.97444,116.79167,2114276,1
 Meishan,China,Meishan,CN,30.04392,103.83696,2950545,1
 Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,64
-Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,1
+Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,9.2
 Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1
 Yerevan,Armenia,Yerevan,AM,40.18111,44.51361,1092800,2.6
 Amritsar,India,Amritsar,IN,31.62234,74.87534,1132761,32
