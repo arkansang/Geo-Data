@@ -118,7 +118,7 @@ Addis Ababa,Ethiopia,Addis Ababa,ET,9.02497,38.74689,3041002,1
 Osaka,Japan,Osaka,JP,34.69374,135.50218,2751862,1
 Nairobi,Kenya,Nairobi,KE,-1.28333,36.81667,5545000,1
 Linyi,China,Linyi,CN,35.06306,118.34278,11018365,1
-Baoding,China,Baoding,CN,38.85111,115.49028,11544036,1
+Baoding,China,Baoding,CN,38.85111,115.49028,11544036,8
 Brooklyn,United States,Brooklyn,US,40.6501,-73.94958,2641052,42.2
 Guayaquil,Ecuador,Guayaquil,EC,-2.19616,-79.88621,2723665,1
 Belo Horizonte,Brazil,Belo Horizonte,BR,-19.92083,-43.93778,2315560,1
@@ -133,7 +133,7 @@ Mogadishu,Somalia,Mogadishu,SO,2.03711,45.34375,2120000,1
 Brisbane,Australia,Brisbane,AU,-27.46794,153.02809,2287896,1
 Daegu,"Korea, Republic of",Daegu,KR,35.87028,128.59111,2376044,1
 Bekasi,Indonesia,Bekasi,ID,-6.2349,106.9896,2381053,65
-Faisalabad,Pakistan,Faisalabad,PK,31.41554,73.08969,3203846,1
+Faisalabad,Pakistan,Faisalabad,PK,31.41554,73.08969,3203846,18.4
 ?zmir,Turkey,Izmir,TR,38.41273,27.13838,4367251,1
 Huai'an,China,Huai'an,CN,33.58861,119.01917,4556230,1
 Dakar,Senegal,Dakar,SN,14.6937,-17.44406,1438725,1
@@ -166,7 +166,7 @@ Paris,France,Paris,FR,48.85341,2.3488,2145906,1
 Coimbatore,India,Coimbatore,IN,11.00555,76.96612,959823,1
 Kunshan,China,Kunshan,CN,31.37762,120.95431,2092496,1
 Mosul,Iraq,Al Mawsil al Jadidah,IQ,36.33271,43.10555,1792000,1
-Depok,Indonesia,Depok,ID,-6.4,106.81861,2056400,1
+Depok,Indonesia,Depok,ID,-6.4,106.81861,2056400,13.9
 Weifang,China,Weifang,CN,36.71,119.10194,9386705,1
 Zunyi,China,Zunyi,CN,27.68667,106.90722,6606675,1
 Basra,Iraq,Al Basrah al Qadimah,IQ,30.50316,47.81507,1326564,1
@@ -317,7 +317,7 @@ San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,12.1
 Antananarivo,Madagascar,Antananarivo,MG,-18.91368,47.53613,1275207,1
 Rajkot,India,Rajkot,IN,22.29161,70.79322,2043000,1
 Luoyang,China,Luoyang,CN,34.68361,112.45361,7056699,1
-Konya,Turkey,Konya,TR,37.87135,32.48464,2232374,1
+Konya,Turkey,Konya,TR,37.87135,32.48464,2232374,2.3
 Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1
 "Hyderabad, Sindh",Pakistan,Hyderabad,PK,25.39242,68.37366,1732693,1
 Guadalajara,Mexico,Guadalajara,MX,20.66682,-103.39182,1460148,1.5
@@ -341,7 +341,7 @@ Saitama,Japan,Saitama,JP,35.90807,139.65657,1325843,1
 Gorakhpur,India,Gorakhpur,IN,29.44768,75.67206,673446,1
 Liupanshui,China,Liupanshui,CN,26.59444,104.83333,3031602,1
 "Córdoba, Argentina",Argentina,Cordoba,AR,-31.4135,-64.18105,1329604,1
-Maoming,China,Maoming,CN,21.66625,110.91364,6174050,1
+Maoming,China,Maoming,CN,21.66625,110.91364,6174050,7
 Dallas,United States,Dallas,US,32.78306,-96.80667,1304379,1
 Callao,Peru,Callao,PE,-12.05659,-77.11814,537377,64
 Medina,Saudi Arabia,Medina,SA,24.46861,39.61417,1411599,1.7
@@ -428,7 +428,7 @@ Kigali,Rwanda,Kigali,RW,-1.94995,30.05885,1156663,1.3
 Rostov-on-Don,Russian Federation,Rostov-na-Donu,RU,47.23135,39.72328,1137704,1.1
 Zhuzhou,China,Zhuzhou,CN,27.83333,113.15,3902738,1
 "Malinao, Albay",Philippines,Malingao,PH,7.16083,124.475,47395,64
-Ufa,Russian Federation,Ufa,RU,54.74306,55.96779,1128787,1
+Ufa,Russian Federation,Ufa,RU,54.74306,55.96779,1128787,1.5
 Ranchi,India,Ranchi,IN,23.34316,85.3094,1073440,1
 Baku,Azerbaijan,Baku,AZ,40.37767,49.89201,2300500,1
 Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,1
@@ -451,7 +451,7 @@ Visakhapatnam,India,Visakhapatnam,IN,17.68009,83.20161,2035922,1
 "Yulin, Guangxi",China,Yulin,CN,22.6305,110.14686,5796766,1
 Jingzhou,China,Jingzhou,CN,30.35028,112.19028,5231180,1
 Tbilisi,Georgia,Tbilisi,GE,41.69411,44.83368,1241700,1.7
-Voronezh,Russian Federation,Voronezh,RU,51.67204,39.1843,1051995,1
+Voronezh,Russian Federation,Voronezh,RU,51.67204,39.1843,1051995,1.5
 Xinxiang,China,Xinxiang,CN,35.19033,113.80151,5708191,1
 "Yichun, Heilongjiang",China,Yichun,CN,27.83333,114.4,1148126,1
 Taichung,"Taiwan, China",Taichung,TW,24.1469,120.6839,3033885,1
@@ -472,14 +472,14 @@ Howrah,India,Haora,IN,22.57688,88.31857,1077075,1
 "San Jose, California",United States,San Jose,US,37.33939,-121.89496,1013240,1
 Longyan,China,Longyan,CN,25.07485,117.01775,2723637,1
 Dublin,Ireland,Dublin,IE,53.33306,-6.24889,592713,1
-Tiruchirappalli,India,Tiruchirappalli,IN,10.8155,78.69651,916857,1
+Tiruchirappalli,India,Tiruchirappalli,IN,10.8155,78.69651,916857,12.1
 Yongzhou,China,Yongzhou,CN,26.42389,111.61306,5289824,1
 Calgary,Canada,Calgary,CA,51.05011,-114.08529,1306784,1
 Brussels,Belgium,Brussels,BE,50.85045,4.34878,1218255,3
 Aurangabad,India,Aurangabad,IN,19.87757,75.34226,1016441,1
 Huzhou,China,Huzhou,CN,30.8703,120.0933,3367579,1
 Odesa,Ukraine,Odesa,UA,46.48572,30.74383,1010537,1
-Volgograd,Russian Federation,Volgograd,RU,48.71939,44.50183,1004763,1.5
+Volgograd,Russian Federation,Volgograd,RU,48.71939,44.50183,1004763,1.7
 Edmonton,Canada,Edmonton,CA,53.55014,-113.46871,1010899,1
 "Wuwei, Gansu",China,Wuwei,CN,37.92672,102.63202,1815059,1
 Namangan,Uzbekistan,Namangan,UZ,40.9983,71.67257,626120,8
