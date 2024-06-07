@@ -145,7 +145,7 @@ Cali,Colombia,Cali,CO,3.43722,-76.5225,2471474,1.5
 Nanchang,China,Nanchang,CN,28.68396,115.85306,6255007,1
 Hohhot,China,Hohhot,CN,40.81056,111.65222,3446100,1
 Rome,Italy,Rome,IT,41.89193,12.51133,2748109,1
-Mashhad,"Iran, Islamic Rep. of",Mashhad,IR,36.29807,59.60567,3208000,1
+Mashhad,"Iran, Islamic Rep. of",Mashhad,IR,36.29807,59.60567,3208000,1.5
 Houston,United States,Houston,US,29.76328,-95.36327,2304580,1
 Kowloon,"Hong Kong, China",Kowloon,HK,22.31667,114.18333,2108419,64
 Shaoxing,China,Shaoxing,CN,30.00237,120.57864,5270977,1
@@ -165,7 +165,7 @@ Baotou,China,Baotou,CN,40.6516,109.84389,2709378,9.2
 Paris,France,Paris,FR,48.85341,2.3488,2145906,1
 Coimbatore,India,Coimbatore,IN,11.00555,76.96612,959823,1
 Kunshan,China,Kunshan,CN,31.37762,120.95431,2092496,32
-Mosul,Iraq,Al Mawsil al Jadidah,IQ,36.33271,43.10555,1792000,18.4
+Mosul,Iraq,Al Mawsil al Jadidah,IQ,36.33271,43.10555,1792000,65
 Depok,Indonesia,Depok,ID,-6.4,106.81861,2056400,13.9
 Weifang,China,Weifang,CN,36.71,119.10194,9386705,1
 Zunyi,China,Zunyi,CN,27.68667,106.90722,6606675,1
@@ -222,7 +222,7 @@ Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1.5
 Soweto,South Africa,Soweto,ZA,-26.26781,27.85849,1271628,36.8
 Puebla,Mexico,Puebla,MX,19.03793,-98.20346,1434062,5.3
 Vienna,Austria,Vienna,AT,48.20849,16.37208,1973403,1
-Mosul,Iraq,Mosul,IQ,36.335,43.11889,1792000,1
+Mosul,Iraq,Mosul,IQ,36.335,43.11889,1792000,1.1
 Kallakurichi,India,Kallakurichi,IN,11.73379,78.95925,73528,3
 Xining,China,Xining,CN,36.62554,101.75739,2467965,1
 Changshu,China,Changshu,CN,31.64615,120.74221,1677050,24.3
@@ -261,7 +261,7 @@ Damascus,Syrian Arab Republic,Damascus,SY,33.5102,36.29128,2584771,2
 Zhaoqing,China,Zhaoqing,CN,23.04893,112.46091,4113594,1
 Onitsha,Nigeria,Onitsha,NG,6.14978,6.78569,1483000,2.6
 Mianyang,China,Mianyang,CN,31.46784,104.68168,4868243,1
-Isfahan,"Iran, Islamic Rep. of",Isfahan,IR,32.65246,51.67462,1961260,1
+Isfahan,"Iran, Islamic Rep. of",Isfahan,IR,32.65246,51.67462,1961260,2
 Ludhiana,India,Ludhiana,IN,30.91204,75.85379,1618879,1
 Harare,Zimbabwe,Harare,ZW,-17.82772,31.05337,2150000,1
 Putian,China,Putian,CN,25.43944,119.01028,3210714,1
@@ -287,7 +287,7 @@ Zapopan,Mexico,Zapopan,MX,20.72356,-103.38479,1476491,55.7
 Daejeon,"Korea, Republic of",Daejeon,KR,36.34913,127.38493,1443106,1
 Quanzhou,China,Quanzhou,CN,24.91389,118.58583,8782285,1
 Kumasi,Ghana,Kumasi,GH,6.68848,-1.62443,3348000,2.3
-Madurai,India,Madurai,IN,9.919,78.11953,1561129,1
+Madurai,India,Madurai,IN,9.919,78.11953,1561129,2
 Jinhua,China,Jinhua,CN,29.10678,119.64421,7050683,1
 Kyoto,Japan,Kyoto,JP,35.02107,135.75385,1448964,10.6
 "Cixi, Zhejiang",China,Cixi,CN,30.1764,121.2457,1502000,1
@@ -464,7 +464,7 @@ Maceió,Brazil,Maceio,BR,-9.66583,-35.73528,957916,1.1
 Campinas,Brazil,Campinas,BR,-22.90556,-47.06083,1213792,5.3
 Sanya,China,Sanya,CN,18.24306,109.505,1031396,1
 "Rangpur, Bangladesh",Bangladesh,Rangpur,BD,25.74664,89.25166,294265,1
-Kirkuk,Iraq,Kirkuk,IQ,35.46806,44.39222,975000,2.3
+Kirkuk,Iraq,Kirkuk,IQ,35.46806,44.39222,975000,2.6
 Jabalpur,India,Jabalpur,IN,23.16697,79.95006,1267564,1
 Comilla District,Bangladesh,Comilla,BD,23.46186,91.18503,5387288,1
 Shaoguan,China,Shaoguan,CN,24.8,113.58333,2855131,1
