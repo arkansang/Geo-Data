@@ -16,7 +16,7 @@ Wuhan,China,Wuhan,CN,30.58333,114.26667,12326518,1
 Moscow,Russian Federation,Moscow,RU,55.75222,37.61556,13010112,1
 Dhaka,Bangladesh,Dhaka,BD,23.7104,90.40744,16800000,1
 Seoul,"Korea, Republic of",Seoul,KR,37.566,126.9784,9668465,1
-Dongguan,China,Dongguan,CN,23.01797,113.74866,10466625,1
+Dongguan,China,Dongguan,CN,23.01797,113.74866,10466625,27.9
 Cairo,Egypt,Cairo,EG,30.06263,31.24967,9606916,1
 Xi'an,China,Xi'an,CN,34.25833,108.92861,12952907,1
 Nanjing,China,Nanjing,CN,32.06167,118.77778,9314685,1
@@ -39,7 +39,7 @@ Baghdad,Iraq,Baghdad,IQ,33.34058,44.40088,8126755,1
 Qingdao,China,Qingdao,CN,36.06488,120.38042,10071722,1
 Tehran,"Iran, Islamic Rep. of",Tehran,IR,35.69439,51.42151,8693706,1
 Shenyang,China,Shenyang,CN,41.79222,123.43278,9070093,1
-Hyderabad,India,Hyderabad,IN,17.38405,78.45636,9305000,1
+Hyderabad,India,Hyderabad,IN,17.38405,78.45636,9305000,7
 Rio de Janeiro,Brazil,Rio de Janeiro,BR,-22.90642,-43.18223,6775561,2.3
 Suzhou,China,Suzhou,CN,31.30408,120.59538,12748262,1
 Ahmedabad,India,Ahmedabad,IN,23.02579,72.58727,7645000,1
@@ -96,7 +96,7 @@ Madrid,Spain,Madrid,ES,40.4165,-3.70256,3332035,1
 Pyongyang,"Korea, Dem. People's Rep. of",Pyongyang,KP,39.03385,125.75432,2863000,1
 Casablanca,Morocco,Casablanca,MA,33.58831,-7.61138,3499000,1
 Zibo,China,Zibo,CN,36.79056,118.06333,4704138,1
-Pune,India,Pune,IN,18.51957,73.85535,5945000,1
+Pune,India,Pune,IN,18.51957,73.85535,5945000,4.6
 Durban,South Africa,Durban,ZA,-29.8579,31.0292,595061,1
 Bursa,Turkey,Bursa,TR,40.19559,29.06013,2994521,3
 Changsha,China,Changsha,CN,28.19874,112.97087,10047914,1
@@ -105,7 +105,7 @@ Guiyang,China,Guiyang,CN,26.58333,106.71667,5987018,1
 Caracas,"Venezuela, Bolivarian Rep. of",Caracas,VE,10.48801,-66.87919,2245744,1
 Lanzhou,China,Lanzhou,CN,36.05701,103.83987,4359446,1
 Incheon,"Korea, Republic of",Incheon,KR,37.45646,126.70515,2993492,27.9
-Huizhou,China,Huizhou,CN,23.11147,114.41523,6042852,1
+Huizhou,China,Huizhou,CN,23.11147,114.41523,6042852,18.4
 Buenos Aires,Argentina,Buenos Aires,AR,-34.61315,-58.37723,3120612,1.1
 Surabaya,Indonesia,Surabaya,ID,-7.24917,112.75083,2885555,1.7
 Haikou,China,Haikou,CN,20.03421,110.34651,2873358,1
@@ -148,7 +148,7 @@ Rome,Italy,Rome,IT,41.89193,12.51133,2748109,1
 Mashhad,"Iran, Islamic Rep. of",Mashhad,IR,36.29807,59.60567,3208000,1.5
 Houston,United States,Houston,US,29.76328,-95.36327,2304580,1
 Kowloon,"Hong Kong, China",Kowloon,HK,22.31667,114.18333,2108419,64
-Shaoxing,China,Shaoxing,CN,30.00237,120.57864,5270977,1
+Shaoxing,China,Shaoxing,CN,30.00237,120.57864,5270977,18.4
 Nantong,China,Nantong,CN,32.03028,120.87472,7726635,1
 Queens,United States,Queens,US,40.68149,-73.83652,2405464,64
 Nagpur,India,Nagpur,IN,21.14631,79.08491,2405665,1
@@ -156,7 +156,7 @@ Yantai,China,Yantai,CN,37.47649,121.44081,7102116,1
 Maracaibo,"Venezuela, Bolivarian Rep. of",Maracaibo,VE,10.66663,-71.61245,1551539,3.5
 Manaus,Brazil,Manaus,BR,-3.10194,-60.025,2063547,1
 Brasília,Brazil,Brasilia,BR,-15.77972,-47.92972,3094325,1
-Zhuhai,China,Zhuhai,CN,22.27694,113.56778,2439585,1
+Zhuhai,China,Zhuhai,CN,22.27694,113.56778,2439585,21.1
 Santo Domingo,Dominican Republic,Santo Domingo,DO,18.47186,-69.89232,1128678,12.1
 Perth,Australia,Perth,AU,-31.95224,115.8614,2043762,1
 Nagoya,Japan,Nagoya,JP,35.18147,136.90641,2326844,6.1
@@ -201,7 +201,7 @@ Vadodara,India,Vadodara,IN,22.29941,73.20812,2065771,1
 Iztapalapa,Mexico,Iztapalapa,MX,19.35529,-99.06224,1835486,32
 "Nanyang, Henan",China,Nanyang,CN,32.99472,112.53278,9713112,1
 Gaziantep Province,Turkey,Gaziantep,TR,37.05944,37.3825,1870697,2.6
-Jiangmen,China,Jiangmen,CN,22.58333,113.08333,4630300,1
+Jiangmen,China,Jiangmen,CN,22.58333,113.08333,4630300,18.4
 Benin City,Nigeria,Benin City,NG,6.33815,5.62575,1147188,16
 Jiangyin,China,Jiangyin,CN,31.91102,120.26302,1285785,55.7
 Adana,Turkey,Adana,TR,36.98615,35.32531,1810646,7
@@ -211,7 +211,7 @@ Conakry,Guinea,Conakry,GN,9.53795,-13.67729,1667864,1
 Montreal,Canada,Montreal,CA,45.50884,-73.58781,1800055,1
 Bayannur,China,Bayan Nur,CN,40.74143,107.38599,1669915,9.2
 Maracay,"Venezuela, Bolivarian Rep. of",Maracay,VE,10.23535,-67.59113,1102088,12.1
-Chaozhou,China,Chaozhou,CN,23.65396,116.62262,2656600,1
+Chaozhou,China,Chaozhou,CN,23.65396,116.62262,2656600,18.4
 Rawalpindi,Pakistan,Rawalpindi,PK,33.59733,73.0479,2098231,2
 Minsk,Belarus,Minsk,BY,53.9,27.56667,1995471,1
 Budapest,Hungary,Budapest,HU,47.49835,19.04045,1671004,3
@@ -231,9 +231,9 @@ Huainan,China,Huainan,CN,32.62639,116.99694,3033528,1
 Rabat,Morocco,Rabat,MA,34.01325,-6.83255,572717,8
 Semarang,Indonesia,Semarang,ID,-6.99306,110.42083,1621384,9.2
 Recife,Brazil,Recife,BR,-8.05389,-34.88111,1488920,1
-Suzhou,China,Suzhou,CN,33.63611,116.97889,12748262,1
+Suzhou,China,Suzhou,CN,33.63611,116.97889,12748262,16
 Ecatepec de Morelos,Mexico,Ecatepec de Morelos,MX,19.60492,-99.06064,1929926,12.1
-Lu'an,China,Lu'an,CN,31.73561,116.51688,4393699,1
+Lu'an,China,Lu'an,CN,31.73561,116.51688,4393699,13.9
 Barcelona,Spain,Barcelona,ES,41.38879,2.15899,1660122,2
 Valencia,"Venezuela, Bolivarian Rep. of",Valencia,VE,10.16202,-68.00765,807693,32
 Pretoria,South Africa,Pretoria,ZA,-25.74486,28.18783,741651,6.1
@@ -241,13 +241,13 @@ Yancheng,China,Yancheng,CN,33.3575,120.1573,6709629,1
 Novosibirsk,Russian Federation,Novosibirsk,RU,55.0415,82.9346,1625631,2.3
 Erbil,Iraq,Erbil,IQ,36.18333,44.01193,846000,12.1
 "Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,3.5
-"Taizhou, Jiangsu",China,Taizhou,CN,32.49069,119.90812,4512762,1
+"Taizhou, Jiangsu",China,Taizhou,CN,32.49069,119.90812,4512762,32
 Daqing,China,Daqing,CN,46.58333,125,2781562,3
 Fukuoka,Japan,Fukuoka,JP,33.6,130.41667,1603043,1
 Aleppo,Syrian Arab Republic,Aleppo,SY,36.20124,37.16117,2003671,2
 Manila,Philippines,Manila,PH,14.6042,120.9822,1846513,64
 Patna,India,Patna,IN,25.59408,85.13563,1684222,1
-Bhopal,India,Bhopal,IN,23.25469,77.40289,1798218,1
+Bhopal,India,Bhopal,IN,23.25469,77.40289,1798218,5.3
 Wuhu,China,Wuhu,CN,31.33728,118.37351,3644420,1
 Querétaro,Mexico,Santiago de Queretaro,MX,20.58806,-100.38806,794789,9.2
 Dazhou,China,Dazhou,CN,31.2106,107.46308,5385422,1
@@ -258,11 +258,11 @@ Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,2.3
 Phnom Penh,Cambodia,Phnom Penh,KH,11.56245,104.91601,2129371,3.5
 Guilin,China,Guilin,CN,25.28022,110.29639,4931137,1
 Damascus,Syrian Arab Republic,Damascus,SY,33.5102,36.29128,2584771,2
-Zhaoqing,China,Zhaoqing,CN,23.04893,112.46091,4113594,1
+Zhaoqing,China,Zhaoqing,CN,23.04893,112.46091,4113594,24.3
 Onitsha,Nigeria,Onitsha,NG,6.14978,6.78569,1483000,2.6
 Mianyang,China,Mianyang,CN,31.46784,104.68168,4868243,1
 Isfahan,"Iran, Islamic Rep. of",Isfahan,IR,32.65246,51.67462,1961260,2
-Ludhiana,India,Ludhiana,IN,30.91204,75.85379,1618879,1
+Ludhiana,India,Ludhiana,IN,30.91204,75.85379,1618879,4
 Harare,Zimbabwe,Harare,ZW,-17.82772,31.05337,2150000,1
 Putian,China,Putian,CN,25.43944,119.01028,3210714,1
 Shangqiu,China,Shangqiu,CN,34.45,115.65,7816831,1
@@ -282,7 +282,7 @@ Yinchuan,China,Yinchuan,CN,38.46806,106.27306,2859074,1
 Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,42.2
 "Taizhou, Jiangsu",China,Taizhou,CN,28.66266,121.43312,4512762,1
 Asunción,Paraguay,Asuncion,PY,-25.28646,-57.647,477346,1.7
-Yiwu,China,Yiwu,CN,29.31506,120.07676,1234015,1
+Yiwu,China,Yiwu,CN,29.31506,120.07676,1234015,24.3
 Zapopan,Mexico,Zapopan,MX,20.72356,-103.38479,1476491,55.7
 Daejeon,"Korea, Republic of",Daejeon,KR,36.34913,127.38493,1443106,6.1
 Quanzhou,China,Quanzhou,CN,24.91389,118.58583,8782285,1
@@ -290,7 +290,7 @@ Kumasi,Ghana,Kumasi,GH,6.68848,-1.62443,3348000,2.3
 Madurai,India,Madurai,IN,9.919,78.11953,1561129,2
 Jinhua,China,Jinhua,CN,29.10678,119.64421,7050683,1
 Kyoto,Japan,Kyoto,JP,35.02107,135.75385,1448964,10.6
-"Cixi, Zhejiang",China,Cixi,CN,30.1764,121.2457,1502000,1
+"Cixi, Zhejiang",China,Cixi,CN,30.1764,121.2457,1502000,18.4
 Changde,China,Changde,CN,29.03205,111.69844,5279102,1
 Kuala Lumpur,Malaysia,Kuala Lumpur,MY,3.1412,101.68653,1982100,1.1
 Kaifeng,China,Kaifeng,CN,34.7986,114.30742,4824016,42.2
@@ -305,7 +305,7 @@ Tirunelveli,India,Tirunelveli,IN,8.72742,77.6838,411298,1
 San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,6.1
 Kharkiv,Ukraine,Kharkiv,UA,49.98081,36.25272,1421125,1.3
 Zhangjiagang,China,Zhangjiagang,CN,31.865,120.53889,1447600,32
-Agra,India,Agra,IN,27.18333,78.01667,1585705,1
+Agra,India,Agra,IN,27.18333,78.01667,1585705,6.1
 Tabriz,"Iran, Islamic Rep. of",Tabriz,IR,38.08,46.2919,1558693,1
 Makassar,Indonesia,Makassar,ID,-5.14861,119.43194,1338663,1
 "Jinjiang, Quanzhou",China,Jinjiang,CN,24.81978,118.57415,2061600,42.2
@@ -315,8 +315,8 @@ Zhanjiang,China,Zhanjiang,CN,21.23391,110.38749,6981236,1
 Fushun,China,Fushun,CN,41.88669,123.94363,1861372,21.1
 San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,12.1
 Antananarivo,Madagascar,Antananarivo,MG,-18.91368,47.53613,1275207,1
-Rajkot,India,Rajkot,IN,22.29161,70.79322,2043000,1
-Luoyang,China,Luoyang,CN,34.68361,112.45361,7056699,1
+Rajkot,India,Rajkot,IN,22.29161,70.79322,2043000,5.3
+Luoyang,China,Luoyang,CN,34.68361,112.45361,7056699,13.9
 Konya,Turkey,Konya,TR,37.87135,32.48464,2232374,2.3
 Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1
 "Hyderabad, Sindh",Pakistan,Hyderabad,PK,25.39242,68.37366,1732693,1
@@ -334,7 +334,7 @@ Yichang,China,Yichang,CN,30.71444,111.28472,4017607,1
 Heze,China,Heze,CN,35.23929,115.47358,8795939,1
 Antalya,Turkey,Antalya,TR,36.90812,30.69556,2426356,1.5
 Abobo,CÃ´te d'Ivoire,Abobo,CI,5.41613,-4.0159,1340083,55.7
-Jamshedpur,India,Jamshedpur,IN,22.80278,86.18545,1558000,1
+Jamshedpur,India,Jamshedpur,IN,22.80278,86.18545,1558000,10.6
 Douala,Cameroon,Douala,CM,4.04827,9.70428,2768436,8
 Basra,Iraq,Basrah,IQ,30.50852,47.7804,1326564,2
 Saitama,Japan,Saitama,JP,35.90807,139.65657,1325843,13.9
@@ -389,10 +389,10 @@ Nabarangpur,India,Nowrangapur,IN,19.23114,82.54826,36945,1
 Faridabad,India,Faridabad,IN,28.41124,77.31316,1404653,12.1
 Peshawar,Pakistan,Peshawar,PK,34.008,71.57849,1970042,7
 Karbala,Iraq,Karbala,IQ,32.61603,44.02488,690100,5.3
-Changzhi,China,Changzhi,CN,36.18389,113.10528,3180884,1
+Changzhi,China,Changzhi,CN,36.18389,113.10528,3180884,13.9
 Tianshui,China,Tianshui,CN,34.57952,105.74238,2984659,1
 Mombasa,Kenya,Mombasa,KE,-4.05466,39.66359,1208333,1
-Mandalay,Myanmar,Mandalay,MM,21.97473,96.08359,1225546,1
+Mandalay,Myanmar,Mandalay,MM,21.97473,96.08359,1225546,5.3
 Barranquilla,Colombia,Barranquilla,CO,10.96854,-74.78132,1274250,8
 Kayseri,Turkey,Kayseri,TR,38.73222,35.48528,1389680,1.1
 Chelyabinsk,Russian Federation,Chelyabinsk,RU,55.15402,61.42915,1196680,2
@@ -429,10 +429,10 @@ Rostov-on-Don,Russian Federation,Rostov-na-Donu,RU,47.23135,39.72328,1137704,1.1
 Zhuzhou,China,Zhuzhou,CN,27.83333,113.15,3902738,1
 "Malinao, Albay",Philippines,Malingao,PH,7.16083,124.475,47395,64
 Ufa,Russian Federation,Ufa,RU,54.74306,55.96779,1128787,1.5
-Ranchi,India,Ranchi,IN,23.34316,85.3094,1073440,1
+Ranchi,India,Ranchi,IN,23.34316,85.3094,1073440,6.1
 Baku,Azerbaijan,Baku,AZ,40.37767,49.89201,2300500,1
 Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,1
-Huaibei,China,Huaibei,CN,33.97444,116.79167,2114276,1
+Huaibei,China,Huaibei,CN,33.97444,116.79167,2114276,16
 Meishan,China,Meishan,CN,30.04392,103.83696,2950545,1
 Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,64
 Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,9.2
@@ -445,9 +445,9 @@ Ouagadougou,Burkina Faso,Ouagadougou,BF,12.36566,-1.53388,2453496,2
 Guigang,China,Guigang,CN,23.11603,109.59472,4316262,1
 Pekanbaru,Indonesia,Pekanbaru,ID,0.51667,101.44167,983356,3
 Hengyang,China,Hengyang,CN,26.88946,112.61888,6645243,1
-Prayagraj,India,Allahabad,IN,25.44478,81.84322,1536218,1
+Prayagraj,India,Allahabad,IN,25.44478,81.84322,1536218,6.1
 Goyang,"Korea, Republic of",Goyang-si,KR,37.65639,126.835,1061929,36.8
-Visakhapatnam,India,Visakhapatnam,IN,17.68009,83.20161,2035922,1
+Visakhapatnam,India,Visakhapatnam,IN,17.68009,83.20161,2035922,4
 "Yulin, Guangxi",China,Yulin,CN,22.6305,110.14686,5796766,1
 Jingzhou,China,Jingzhou,CN,30.35028,112.19028,5231180,1
 Tbilisi,Georgia,Tbilisi,GE,41.69411,44.83368,1241700,1.7
@@ -476,8 +476,8 @@ Tiruchirappalli,India,Tiruchirappalli,IN,10.8155,78.69651,916857,12.1
 Yongzhou,China,Yongzhou,CN,26.42389,111.61306,5289824,1
 Calgary,Canada,Calgary,CA,51.05011,-114.08529,1306784,1
 Brussels,Belgium,Brussels,BE,50.85045,4.34878,1218255,3
-Aurangabad,India,Aurangabad,IN,19.87757,75.34226,1016441,1
-Huzhou,China,Huzhou,CN,30.8703,120.0933,3367579,1
+Aurangabad,India,Aurangabad,IN,19.87757,75.34226,1016441,9.2
+Huzhou,China,Huzhou,CN,30.8703,120.0933,3367579,21.1
 Odesa,Ukraine,Odesa,UA,46.48572,30.74383,1010537,1
 Volgograd,Russian Federation,Volgograd,RU,48.71939,44.50183,1004763,1.7
 Edmonton,Canada,Edmonton,CA,53.55014,-113.46871,1010899,1
