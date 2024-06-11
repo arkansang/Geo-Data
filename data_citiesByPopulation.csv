@@ -88,7 +88,7 @@ Ibadan,Nigeria,Ibadan,NG,7.37756,3.90591,2550593,1.7
 Puyang,China,Puyang,CN,29.45679,119.88872,3598740,9.2
 Ankara,Turkey,Ankara,TR,39.91987,32.85427,5747325,2
 Dubai,United Arab Emirates,Dubai,AE,25.07725,55.30927,3564931,1.3
-Shiyan,China,Shiyan,CN,32.6475,110.77806,3398000,6.1
+Shiyan,China,Shiyan,CN,32.6475,110.77806,3398000,7
 Berlin,Germany,Berlin,DE,52.52437,13.41053,3755251,1
 Tangshan,China,Tangshan,CN,39.63333,118.18333,7717983,8
 Changzhou,China,Changzhou,CN,31.77359,119.95401,5278121,12.1
@@ -171,7 +171,7 @@ Weifang,China,Weifang,CN,36.71,119.10194,9386705,1
 Zunyi,China,Zunyi,CN,27.68667,106.90722,6606675,1
 Basra,Iraq,Al Basrah al Qadimah,IQ,30.50316,47.81507,1326564,65
 La Paz,Bolivia,La Paz,BO,-16.5,-68.15,2867504,1.5
-Lianyungang,China,Lianyungang,CN,34.59845,119.21556,4599360,1
+Lianyungang,China,Lianyungang,CN,34.59845,119.21556,4599360,5.3
 Medellín,Colombia,Medellin,CO,6.25184,-75.56359,2529403,1.5
 Tashkent,Uzbekistan,Tashkent,UZ,41.26465,69.21627,2862420,1
 Algiers,Algeria,Algiers,DZ,36.73225,3.08746,3415811,1
@@ -193,7 +193,7 @@ Camayenne,Guinea,Camayenne,GN,9.535,-13.68778,1871242,65
 Kakamega,Kenya,Kakamega,KE,0.28422,34.75229,91778,8
 Port Harcourt,Nigeria,Port Harcourt,NG,4.77742,7.0134,3325000,2
 Nanchong,China,Nanchong,CN,30.79508,106.08473,5607565,9.2
-Datong,China,Datong,CN,40.09361,113.29139,3105591,1
+Datong,China,Datong,CN,40.09361,113.29139,3105591,4.6
 Hamburg,Germany,Hamburg,DE,53.55073,9.99302,1892122,2.3
 Indore,India,Indore,IN,22.71792,75.8333,1994397,8
 Santa Cruz de la Sierra,Bolivia,Santa Cruz de la Sierra,BO,-17.78629,-63.18117,3151676,1
@@ -215,7 +215,7 @@ Chaozhou,China,Chaozhou,CN,23.65396,116.62262,2656600,18.4
 Rawalpindi,Pakistan,Rawalpindi,PK,33.59733,73.0479,2098231,2
 Minsk,Belarus,Minsk,BY,53.9,27.56667,1995471,1
 Budapest,Hungary,Budapest,HU,47.49835,19.04045,1671004,3
-Qingyuan,China,Qingyuan,CN,23.7,113.03333,3969473,1
+Qingyuan,China,Qingyuan,CN,23.7,113.03333,3969473,5.3
 Tai'an,China,Tai'an,CN,36.18528,117.12,5472217,6.1
 "León, Guanajuato",Mexico,Leon de los Aldama,MX,21.12908,-101.67374,1579803,4.6
 Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1.5
@@ -264,7 +264,7 @@ Mianyang,China,Mianyang,CN,31.46784,104.68168,4868243,1
 Isfahan,"Iran, Islamic Rep. of",Isfahan,IR,32.65246,51.67462,1961260,2
 Ludhiana,India,Ludhiana,IN,30.91204,75.85379,1618879,4
 Harare,Zimbabwe,Harare,ZW,-17.82772,31.05337,2150000,1
-Putian,China,Putian,CN,25.43944,119.01028,3210714,1
+Putian,China,Putian,CN,25.43944,119.01028,3210714,4.6
 Shangqiu,China,Shangqiu,CN,34.45,115.65,7816831,10.6
 Goiânia,Brazil,Goiania,BR,-16.67861,-49.25389,1555626,1.7
 "Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,32
@@ -330,7 +330,7 @@ South Tangerang,Indonesia,South Tangerang,ID,-6.28862,106.71789,1644899,42.2
 Najafgarh,India,Najafgarh,IN,28.60922,76.97982,1365000,64
 Handan,China,Handan,CN,36.60999,114.48764,9413990,1
 Kampala,Uganda,Kampala,UG,0.31628,32.58219,1680600,1.7
-Yichang,China,Yichang,CN,30.71444,111.28472,4017607,1
+Yichang,China,Yichang,CN,30.71444,111.28472,4017607,5.3
 Heze,China,Heze,CN,35.23929,115.47358,8795939,10.6
 Antalya,Turkey,Antalya,TR,36.90812,30.69556,2426356,1.5
 Abobo,CÃ´te d'Ivoire,Abobo,CI,5.41613,-4.0159,1340083,55.7
@@ -347,7 +347,7 @@ Callao,Peru,Callao,PE,-12.05659,-77.11814,537377,64
 Medina,Saudi Arabia,Medina,SA,24.46861,39.61417,1411599,1.7
 Yaoundé,Cameroon,Yaounde,CM,3.86667,11.51667,2440462,1
 Bamako,Mali,Bamako,ML,12.65,-8,4227569,1
-Qinzhou,China,Qinzhou,CN,21.98247,108.65061,3304400,1
+Qinzhou,China,Qinzhou,CN,21.98247,108.65061,3304400,4
 Luohe,China,Luohe,CN,33.56394,114.04272,2544266,1
 Xiangyang,China,Xiangyang,CN,32.0422,112.14479,5260951,1
 Yangjiang,China,Yangjiang,CN,21.85563,111.96272,2555600,12.1
@@ -390,7 +390,7 @@ Faridabad,India,Faridabad,IN,28.41124,77.31316,1404653,12.1
 Peshawar,Pakistan,Peshawar,PK,34.008,71.57849,1970042,7
 Karbala,Iraq,Karbala,IQ,32.61603,44.02488,690100,5.3
 Changzhi,China,Changzhi,CN,36.18389,113.10528,3180884,13.9
-Tianshui,China,Tianshui,CN,34.57952,105.74238,2984659,1
+Tianshui,China,Tianshui,CN,34.57952,105.74238,2984659,5.3
 Mombasa,Kenya,Mombasa,KE,-4.05466,39.66359,1208333,1
 Mandalay,Myanmar,Mandalay,MM,21.97473,96.08359,1225546,1
 Barranquilla,Colombia,Barranquilla,CO,10.96854,-74.78132,1274250,8
@@ -420,7 +420,7 @@ Samara,Russian Federation,Samara,RU,53.20007,50.15,1156659,1
 Copenhagen,Denmark,Copenhagen,DK,55.67594,12.56553,644431,1.1
 Sofia,Bulgaria,Sofia,BG,42.69751,23.32415,1276956,1.5
 Tripoli,Libyan Arab Jamahiriya,Tripoli,LY,32.88743,13.18733,1150989,1
-Anyang,China,Anyang,CN,36.096,114.38278,5477614,1
+Anyang,China,Anyang,CN,36.096,114.38278,5477614,5.3
 Birmingham,United Kingdom,Birmingham,GB,52.48142,-1.89983,1137100,2.3
 Bijie,China,Bijie,CN,27.30193,105.28627,6899636,5.3
 Monterrey,Mexico,Monterrey,MX,25.67507,-100.31847,1135512,1
@@ -431,9 +431,9 @@ Zhuzhou,China,Zhuzhou,CN,27.83333,113.15,3902738,6.1
 Ufa,Russian Federation,Ufa,RU,54.74306,55.96779,1128787,1.5
 Ranchi,India,Ranchi,IN,23.34316,85.3094,1073440,6.1
 Baku,Azerbaijan,Baku,AZ,40.37767,49.89201,2300500,1
-Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,1
+Shangrao,China,Shangrao,CN,28.45179,117.94287,6435300,6.1
 Huaibei,China,Huaibei,CN,33.97444,116.79167,2114276,16
-Meishan,China,Meishan,CN,30.04392,103.83696,2950545,1
+Meishan,China,Meishan,CN,30.04392,103.83696,2950545,5.3
 Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,64
 Bogor,Indonesia,Bogor,ID,-6.59444,106.78917,982469,9.2
 Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1
@@ -454,7 +454,7 @@ Tbilisi,Georgia,Tbilisi,GE,41.69411,44.83368,1241700,1.7
 Voronezh,Russian Federation,Voronezh,RU,51.67204,39.1843,1051995,1.5
 Xinxiang,China,Xinxiang,CN,35.19033,113.80151,5708191,8
 "Yichun, Heilongjiang",China,Yichun,CN,27.83333,114.4,1148126,13.9
-Taichung,"Taiwan, China",Taichung,TW,24.1469,120.6839,3033885,5.3
+Taichung,"Taiwan, China",Taichung,TW,24.1469,120.6839,3033885,6.1
 Theni Allinagaram,India,Teni,IN,10.01115,77.47772,85424,12.1
 Xianyang,China,Xianyang,CN,34.33778,108.70261,3959842,42.2
 Mexicali,Mexico,Mexicali,MX,32.62781,-115.45446,1034224,12.1
