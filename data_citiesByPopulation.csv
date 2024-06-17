@@ -92,7 +92,6 @@ Chicago,United States,Chicago,US,41.85003,-87.65005,2746388,1
 Chittagong,Bangladesh,Chattogram,BD,22.3384,91.83168,2581643,5.3
 Chongqing,China,Chongqing,CN,29.56026,106.55771,32054159,1
 Ciudad Juárez,Mexico,Ciudad Juarez,MX,31.72024,-106.46084,1321004,1.7
-Ciudad Nezahualcóyotl,Mexico,Ciudad Nezahualcoyotl,MX,19.40061,-99.01483,1072676,64
 "Cixi, Zhejiang",China,Cixi,CN,30.1764,121.2457,1502000,18.4
 Coimbatore,India,Coimbatore,IN,11.00555,76.96612,959823,1.5
 Comilla District,Bangladesh,Comilla,BD,23.46186,91.18503,5387288,10.6
@@ -323,7 +322,7 @@ Nashik,India,Nashik,IN,19.99727,73.79096,1486053,2.3
 Navi Mumbai,India,Navi Mumbai,IN,19.03681,73.01582,1119477,65
 Neijiang,China,Neijiang,CN,29.58354,105.06216,3702847,10.6
 New York City,United States,New York City,US,40.71427,-74.00597,8804190,1
-Nezahualcóyotl,Mexico,Nezahualcoyotl,MX,19.3995,-98.9897,1072676,1
+Nezahualcóyotl,Mexico,Nezahualcoyotl,MX,19.3995,-98.9897,1072676,64
 Ningbo,China,Ningbo,CN,29.87819,121.54945,9404283,1.7
 Nizhny Novgorod,Russia,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,6.1
 Novosibirsk,Russia,Novosibirsk,RU,55.0415,82.9346,1625631,2.3
@@ -333,17 +332,17 @@ Omsk,Russia,Omsk,RU,54.99244,73.36859,1172070,1.3
 Onitsha,Nigeria,Onitsha,NG,6.14978,6.78569,1483000,2.6
 Ordos City,China,Ordos,CN,39.6086,109.78157,2153638,1.7
 Osaka,Japan,Osaka,JP,34.69374,135.50218,2751862,2
-Ottawa,Canada,Ottawa,CA,45.4201,-75.7003,1071868,1
+Ottawa,Canada,Ottawa,CA,45.4201,-75.7003,1071868,8
 Ouagadougou,Burkina Faso,Ouagadougou,BF,12.36566,-1.53388,2453496,2
 Palembang,Indonesia,Palembang,ID,-2.91673,104.7458,1535952,1.1
-Panama City,Panama,Panama City,PA,30.1588,-85.6602,1086990,1
-Paris,France,Paris,FR,48.85341,2.3488,2145906,1
+Panama City,Panama,Panama City,PA,8.9833,-85.6602,1086990,1
+Paris,France,Paris,FR,48.85341,-79.5166,2145906,1
 Patna,India,Patna,IN,25.59408,85.13563,1684222,1.1
 Pekanbaru,Indonesia,Pekanbaru,ID,0.51667,101.44167,983356,3
 "Perm, Russia",Russia,Perm,RU,58.01046,56.25017,991162,2
 Perth,Australia,Perth,AU,-31.95224,115.8614,2043762,1
 Peshawar,Pakistan,Peshawar,PK,34.008,71.57849,1970042,7
-Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,2.3
+Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,3
 Phnom Penh,Cambodia,Phnom Penh,KH,11.56245,104.91601,2129371,3.5
 "Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,3.5
 Pimpri,India,Pimpri,IN,18.62292,73.80696,1729320,27.9
@@ -436,7 +435,7 @@ Tangerang,Indonesia,Tangerang,ID,-6.17806,106.63,2237006,65
 Tangshan,China,Tangshan,CN,39.63333,118.18333,7717983,8
 Tashkent,Uzbekistan,Tashkent,UZ,41.26465,69.21627,2862420,1
 Tbilisi,Georgia,Tbilisi,GE,41.69411,44.83368,1241700,1.7
-Tegucigalpa,Honduras,Tegucigalpa,HN,14.065,-87.1715,1132000,1
+Tegucigalpa,Honduras,Tegucigalpa,HN,14.065,-87.1715,1132000,5.3
 Tehran,Iran,Tehran,IR,35.69439,51.42151,8693706,1
 Thane,India,Thane,IN,19.19704,72.96355,1886941,21.1
 The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,21.1
