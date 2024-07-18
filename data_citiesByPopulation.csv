@@ -2,14 +2,14 @@ city,country,cityASCII,countryCode,latitude,longitude,population,zoomLevel,count
 Kabul,Afghanistan,Kabul,AF,34.52813,69.17233,4273156,1,
 Algiers,Algeria,Algiers,DZ,36.73225,3.08746,3415811,1,
 Luanda,Angola,Luanda,AO,-8.83682,13.23432,2487444,1,
-"Córdoba, Argentina",Argentina,Cordoba,AR,-31.4135,-64.18105,1329604,1,
-Buenos Aires,Argentina,Buenos Aires,AR,-34.61315,-58.37723,3120612,1.1,
+"Córdoba, Argentina",Argentina,Cordoba,AR,-31.4135,-64.18105,1329604,1,#84D8FF
+Buenos Aires,Argentina,Buenos Aires,AR,-34.61315,-58.37723,3120612,1.1,#84D8FF
 Yerevan,Armenia,Yerevan,AM,40.18111,44.51361,1092800,2.6,
-Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1,
-Perth,Australia,Perth,AU,-31.95224,115.8614,2043762,1,
-Brisbane,Australia,Brisbane,AU,-27.46794,153.02809,2287896,1,
-Sydney,Australia,Sydney,AU,-33.86785,151.20732,4698656,1,
-Melbourne,Australia,Melbourne,AU,-37.814,144.96332,5031195,1,
+Adelaide,Australia,Adelaide,AU,-34.92866,138.59863,1387290,1,#FFA747
+Perth,Australia,Perth,AU,-31.95224,115.8614,2043762,1,#FFA747
+Brisbane,Australia,Brisbane,AU,-27.46794,153.02809,2287896,1,#FFA747
+Sydney,Australia,Sydney,AU,-33.86785,151.20732,4698656,1,#FFA747
+Melbourne,Australia,Melbourne,AU,-37.814,144.96332,5031195,1,#FFA747
 Vienna,Austria,Vienna,AT,48.20849,16.37208,1973403,1,
 Baku,Azerbaijan,Baku,AZ,40.37767,49.89201,2300500,1,
 "Rangpur, Bangladesh",Bangladesh,Rangpur,BD,25.74664,89.25166,294265,2.3,
@@ -326,21 +326,21 @@ Basra,Iraq,Basrah,IQ,30.50852,47.7804,1326564,2,
 Mosul,Iraq,Al Mawsil al Jadidah,IQ,36.33271,43.10555,1792000,65,
 Mosul,Iraq,Mosul,IQ,36.335,43.11889,1792000,1.1,
 Baghdad,Iraq,Baghdad,IQ,33.34058,44.40088,8126755,1,
-Dublin,Ireland,Dublin,IE,53.33306,-6.24889,592713,1.1,
-Milan,Italy,Milan,IT,45.46427,9.18951,1354196,1,
-Rome,Italy,Rome,IT,41.89193,12.51133,2748109,1,
-Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1,
-Hiroshima,Japan,Hiroshima,JP,34.4,132.45,1198021,8,
-Saitama,Japan,Saitama,JP,35.90807,139.65657,1325843,13.9,
-Kyoto,Japan,Kyoto,JP,35.02107,135.75385,1448964,10.6,
-Kobe,Japan,Kobe,JP,34.6913,135.183,1521707,36.8,
-"Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,32,
-Fukuoka,Japan,Fukuoka,JP,33.6,130.41667,1603043,2.3,
-Sapporo,Japan,Sapporo,JP,43.06667,141.35,1959313,1,
-Nagoya,Japan,Nagoya,JP,35.18147,136.90641,2326844,6.1,
-Osaka,Japan,Osaka,JP,34.69374,135.50218,2751862,2,
-Yokohama,Japan,Yokohama,JP,35.43333,139.65,3757630,10.6,
-Tokyo,Japan,Tokyo,JP,35.6895,139.69171,14047594,1,
+Dublin,Ireland,Dublin,IE,53.33306,-6.24889,592713,1.1,#9CCE59
+Milan,Italy,Milan,IT,45.46427,9.18951,1354196,1,#70B06F
+Rome,Italy,Rome,IT,41.89193,12.51133,2748109,1,#70B06F
+Sendai,Japan,Sendai,JP,38.26667,140.86667,1061177,1,#C33C3C
+Hiroshima,Japan,Hiroshima,JP,34.4,132.45,1198021,8,#C33C3C
+Saitama,Japan,Saitama,JP,35.90807,139.65657,1325843,13.9,#C33C3C
+Kyoto,Japan,Kyoto,JP,35.02107,135.75385,1448964,10.6,#C33C3C
+Kobe,Japan,Kobe,JP,34.6913,135.183,1521707,36.8,#C33C3C
+"Kawasaki, Kanagawa",Japan,Kawasaki,JP,35.52056,139.71722,1539522,32,#C33C3C
+Fukuoka,Japan,Fukuoka,JP,33.6,130.41667,1603043,2.3,#C33C3C
+Sapporo,Japan,Sapporo,JP,43.06667,141.35,1959313,1,#C33C3C
+Nagoya,Japan,Nagoya,JP,35.18147,136.90641,2326844,6.1,#C33C3C
+Osaka,Japan,Osaka,JP,34.69374,135.50218,2751862,2,#C33C3C
+Yokohama,Japan,Yokohama,JP,35.43333,139.65,3757630,10.6,#C33C3C
+Tokyo,Japan,Tokyo,JP,35.6895,139.69171,14047594,1,#C33C3C
 Amman,Jordan,Amman,JO,31.95522,35.94503,4007526,2.6,
 Shymkent,Kazakhstan,Shymkent,KZ,42.3,69.6,1191877,2.3,
 Almaty,Kazakhstan,Almaty,KZ,43.25,76.91667,2135365,1.1,
@@ -407,27 +407,27 @@ Manila,Philippines,Manila,PH,14.6042,120.9822,1846513,64,
 Quezon City,Philippines,Quezon City,PH,14.6488,121.0509,2960048,1,
 Warsaw,Poland,Warsaw,PL,52.22977,21.01178,1860281,1.5,
 Bucharest,Romania,Bucharest,RO,44.43225,26.10626,1716961,1,
-"Perm, Russia",Russia,Perm,RU,58.01046,56.25017,991162,2,
-Volgograd,Russia,Volgograd,RU,48.71939,44.50183,1004763,1.7,
-Voronezh,Russia,Voronezh,RU,51.67204,39.1843,1051995,1.5,
-Krasnoyarsk,Russia,Krasnoyarsk,RU,56.01839,92.86717,1090811,1,
-Ufa,Russia,Ufa,RU,54.74306,55.96779,1128787,1.5,
-Rostov-on-Don,Russia,Rostov-na-Donu,RU,47.23135,39.72328,1137704,1.1,
-Samara,Russia,Samara,RU,53.20007,50.15,1156659,1,
-Omsk,Russia,Omsk,RU,54.99244,73.36859,1172070,1.3,
-Chelyabinsk,Russia,Chelyabinsk,RU,55.15402,61.42915,1196680,2,
-Nizhny Novgorod,Russia,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,6.1,
-Kazan,Russia,Kazan,RU,55.78874,49.12214,1259173,1.3,
-Yekaterinburg,Russia,Yekaterinburg,RU,56.8519,60.6122,1468833,1,
-Novosibirsk,Russia,Novosibirsk,RU,55.0415,82.9346,1625631,2.3,
-Saint Petersburg,Russia,Saint Petersburg,RU,59.93863,30.31413,5384342,1,
-Moscow,Russia,Moscow,RU,55.75222,37.61556,13010112,1,
+"Perm, Russia",Russia,Perm,RU,58.01046,56.25017,991162,2,#4B4B4B
+Volgograd,Russia,Volgograd,RU,48.71939,44.50183,1004763,1.7,#4B4B4B
+Voronezh,Russia,Voronezh,RU,51.67204,39.1843,1051995,1.5,#4B4B4B
+Krasnoyarsk,Russia,Krasnoyarsk,RU,56.01839,92.86717,1090811,1,#4B4B4B
+Ufa,Russia,Ufa,RU,54.74306,55.96779,1128787,1.5,#4B4B4B
+Rostov-on-Don,Russia,Rostov-na-Donu,RU,47.23135,39.72328,1137704,1.1,#4B4B4B
+Samara,Russia,Samara,RU,53.20007,50.15,1156659,1,#4B4B4B
+Omsk,Russia,Omsk,RU,54.99244,73.36859,1172070,1.3,#4B4B4B
+Chelyabinsk,Russia,Chelyabinsk,RU,55.15402,61.42915,1196680,2,#4B4B4B
+Nizhny Novgorod,Russia,Nizhniy Novgorod,RU,56.32867,44.00205,1252236,6.1,#4B4B4B
+Kazan,Russia,Kazan,RU,55.78874,49.12214,1259173,1.3,#4B4B4B
+Yekaterinburg,Russia,Yekaterinburg,RU,56.8519,60.6122,1468833,1,#4B4B4B
+Novosibirsk,Russia,Novosibirsk,RU,55.0415,82.9346,1625631,2.3,#4B4B4B
+Saint Petersburg,Russia,Saint Petersburg,RU,59.93863,30.31413,5384342,1,#4B4B4B
+Moscow,Russia,Moscow,RU,55.75222,37.61556,13010112,1,#4B4B4B
 Kigali,Rwanda,Kigali,RW,-1.94995,30.05885,1156663,1.3,
-Dammam,Saudi Arabia,Dammam,SA,26.43442,50.10326,903000,1.7,
-Medina,Saudi Arabia,Medina,SA,24.46861,39.61417,1411599,1.7,
-Mecca,Saudi Arabia,Mecca,SA,21.42664,39.82563,2427924,21.1,
-Jeddah,Saudi Arabia,Jeddah,SA,21.49012,39.18624,4697000,1,
-Riyadh,Saudi Arabia,Riyadh,SA,24.68773,46.72185,7009100,1,
+Dammam,Saudi Arabia,Dammam,SA,26.43442,50.10326,903000,1.7,#70B06F
+Medina,Saudi Arabia,Medina,SA,24.46861,39.61417,1411599,1.7,#70B06F
+Mecca,Saudi Arabia,Mecca,SA,21.42664,39.82563,2427924,21.1,#70B06F
+Jeddah,Saudi Arabia,Jeddah,SA,21.49012,39.18624,4697000,1,#70B06F
+Riyadh,Saudi Arabia,Riyadh,SA,24.68773,46.72185,7009100,1,#70B06F
 Dakar,Senegal,Dakar,SN,14.6937,-17.44406,1438725,1,
 Belgrade,Serbia,Belgrade,RS,44.80401,20.46513,1378682,2.6,
 Singapore,Singapore,Singapore,SG,1.28967,103.85007,5453566,1,
@@ -475,21 +475,21 @@ Sharjah,United Arab Emirates,Sharjah,AE,25.33737,55.41206,1247749,12.1,
 Dubai,United Arab Emirates,Dubai,AE,25.07725,55.30927,3564931,1.3,
 Birmingham,United Kingdom,Birmingham,GB,52.48142,-1.89983,1137100,2.3,#FF5151
 London,United Kingdom,London,GB,51.50853,-0.12574,8799728,1,#FF5151
-"San Jose, California",United States,San Jose,US,37.33939,-121.89496,1013240,1,
-Honolulu,United States,Honolulu,US,21.3099,-157.8581,1016508,1,
-Dallas,United States,Dallas,US,32.78306,-96.80667,1304379,1,
-San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,12.1,
-San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,8,
-The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,21.1,
-Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,3,
-"Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,3.5,
-Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,42.2,
-Houston,United States,Houston,US,29.76328,-95.36327,2304580,1,
-Queens,United States,Queens,US,40.68149,-73.83652,2405464,64,
-Brooklyn,United States,Brooklyn,US,40.6501,-73.94958,2641052,42.2,
-Chicago,United States,Chicago,US,41.85003,-87.65005,2746388,1,
-Los Angeles,United States,Los Angeles,US,34.05223,-118.24368,3898747,1,
-New York City,United States,New York City,US,40.71427,-74.00597,8804190,1,
+"San Jose, California",United States,San Jose,US,37.33939,-121.89496,1013240,1,#2B70C9
+Honolulu,United States,Honolulu,US,21.3099,-157.8581,1016508,1,#2B70C9
+Dallas,United States,Dallas,US,32.78306,-96.80667,1304379,1,#2B70C9
+San Diego,United States,San Diego,US,32.71571,-117.16472,1386932,12.1,#2B70C9
+San Antonio,United States,San Antonio,US,29.42412,-98.49363,1434625,8,#2B70C9
+The Bronx,United States,The Bronx,US,40.84985,-73.86641,1472654,21.1,#2B70C9
+Philadelphia,United States,Philadelphia,US,39.95238,-75.16362,1603797,3,#2B70C9
+"Phoenix, Arizona",United States,Phoenix,US,33.44838,-112.07404,1608139,3.5,#2B70C9
+Manhattan,United States,Manhattan,US,40.78343,-73.96625,1694251,42.2,#2B70C9
+Houston,United States,Houston,US,29.76328,-95.36327,2304580,1,#2B70C9
+Queens,United States,Queens,US,40.68149,-73.83652,2405464,64,#2B70C9
+Brooklyn,United States,Brooklyn,US,40.6501,-73.94958,2641052,42.2,#2B70C9
+Chicago,United States,Chicago,US,41.85003,-87.65005,2746388,1,#2B70C9
+Los Angeles,United States,Los Angeles,US,34.05223,-118.24368,3898747,1,#2B70C9
+New York City,United States,New York City,US,40.71427,-74.00597,8804190,1,#2B70C9
 Montevideo,Uruguay,Montevideo,UY,-34.90328,-56.18816,1319108,9.2,
 Namangan,Uzbekistan,Namangan,UZ,40.9983,71.67257,626120,8,
 Tashkent,Uzbekistan,Tashkent,UZ,41.26465,69.21627,2862420,1,
